@@ -1,0 +1,483 @@
+{
+  "vendor_count": 2459,
+  "categories": {
+    "Cleaning & turnovers": 242,
+    "Plumbing": 279,
+    "Electrical": 236,
+    "HVAC": 245,
+    "Landscaping": 192,
+    "Handyman services": 186,
+    "Pest control": 172,
+    "Appliance repair": 328,
+    "Damage restoration": 292,
+    "Window & exterior cleaning": 94,
+    "Glass repair": 193
+  },
+  "sources": [
+    [
+      "molly",
+      "https://www.mollymaid.com/locations/",
+      "Cleaning & turnovers"
+    ],
+    [
+      "rooter",
+      "https://www.mrrooter.com/locations/",
+      "Plumbing"
+    ],
+    [
+      "electric",
+      "https://mrelectric.com/locations/",
+      "Electrical"
+    ],
+    [
+      "aire",
+      "https://www.aireserv.com/locations/",
+      "HVAC"
+    ],
+    [
+      "grounds",
+      "https://www.groundsguys.com/locations/",
+      "Landscaping"
+    ],
+    [
+      "handyman",
+      "https://www.mrhandyman.com/locations/",
+      "Handyman services"
+    ],
+    [
+      "mosquito",
+      "https://mosquitojoe.com/locations/",
+      "Pest control"
+    ],
+    [
+      "appliance",
+      "https://www.mrappliance.com/locations/",
+      "Appliance repair"
+    ],
+    [
+      "rainbow",
+      "https://rainbowrestores.com/locations/",
+      "Damage restoration"
+    ],
+    [
+      "window",
+      "https://www.windowgenie.com/locations/",
+      "Window & exterior cleaning"
+    ],
+    [
+      "glass",
+      "https://glassdoctor.com/locations/",
+      "Glass repair"
+    ]
+  ],
+  "rejected": [
+    {
+      "name": "Molly Maid of Arvada, Boulder, Longmont and Brighton",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Molly Maid of Aurora and Southeast Denver",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Molly Maid of Colorado Springs",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Molly Maid of Denver West",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Molly Maid of Fort Collins, Greeley and Loveland",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Molly Maid of San Juan Norte",
+      "reason": "not US location"
+    },
+    {
+      "name": "Mr. Rooter Plumbing of Colorado Springs",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Rooter Plumbing of Denver",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Rooter Plumbing of Northern Colorado",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Electric of Boulder",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Electric of Golden CO",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Electric of Littleton",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Aire Serv of SE Fort Collins \u2013 Windsor",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Aire Serv of South Denver",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Aire Serv of the Front Range",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "The Grounds Guys of Broomfield and North Arvada",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "The Grounds Guys of Carbondale, CO",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "The Grounds Guys of Englewood",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "The Grounds Guys of Longmont",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "The Grounds Guys of NE Colorado Springs",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Handyman of Brighton and Surrounding Area",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Handyman of Castle Rock, Parker, Monument",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Handyman of Colorado Springs",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Handyman of E Boulder, Broomfield & Erie",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Handyman of Englewood, Centennial and S Aurora",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Handyman of Fort Collins",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Handyman of Littleton, Columbine and Morrison",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mosquito Joe of Northern Colorado",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Aurora",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Boulder",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Denver",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Golden and Lakewood",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Littleton",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Northern Colorado",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Parker",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of the Front Range",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Mr. Appliance of Vail, Aspen & Glenwood",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Rainbow Restoration of Arvada",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Rainbow Restoration of Broomfield",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Rainbow Restoration of Commerce City \u2013 Brighton",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Rainbow Restoration of Longmont",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Rainbow Restoration of Parker",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Window Genie HCP",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Window Genie of Thornton",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Bethlehem-East Poconos",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Carlsbad",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Castle Rock",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Cedar Park",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Colorado Springs",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Commerce City",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Conway, SC",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of East Orlando",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Fargo",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Fort Washington",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Glen Allen",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Greensboro",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Hattiesburg-Meridian",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Hillsboro and North Portland",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of League City",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Mid-Tennessee and NE Mississippi",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Moorhead",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of North Central Phoenix",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of San Marcos",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Scottsdale",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of South Sugar Land",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Southampton",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Summerville",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of SW Portland",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of the Peninsula",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Thousand Oaks",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Waxahachie",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of West Bend",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Wichita",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Auto of Williamsport",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Home+Business of Sarnia/Lambton County",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Barrie, ON",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Burnaby",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor Of Edmonton",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Englewood, CO",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor of Greeley",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor Of Langley",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Midland",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Moncton, NB",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Muskoka",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of New Westminster",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Newmarket",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Prince Edward Island",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Sunshine Coast",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of Surrey",
+      "reason": "not US location"
+    },
+    {
+      "name": "Glass Doctor of the Front Range",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor of Western Colorado",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor of Wheatridge",
+      "reason": "excluded region, invalid contact, test listing or auto-only service"
+    },
+    {
+      "name": "Glass Doctor of York Region",
+      "reason": "not US location"
+    },
+    {
+      "name": "Mr. Rooter Plumbing of Holland",
+      "reason": "duplicate official location"
+    },
+    {
+      "name": "Mr. Handyman of South Charlotte, Matthews, Waxhaw",
+      "reason": "duplicate official location"
+    },
+    {
+      "name": "Mr. Appliance of Edina",
+      "reason": "duplicate official location"
+    },
+    {
+      "name": "Mr. Appliance of Las Vegas",
+      "reason": "duplicate official location"
+    },
+    {
+      "name": "Mr. Appliance of Portland",
+      "reason": "duplicate official location"
+    },
+    {
+      "name": "Mr. Appliance of Seattle",
+      "reason": "duplicate official location"
+    },
+    {
+      "name": "Rainbow Restoration of Burleson",
+      "reason": "duplicate official location"
+    },
+    {
+      "name": "Glass Doctor of Northwest Albuquerque",
+      "reason": "duplicate official location"
+    }
+  ]
+}
