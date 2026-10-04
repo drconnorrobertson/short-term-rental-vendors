@@ -1,0 +1,217 @@
+{
+  "Alabama": [
+    "Gulf Shores",
+    "Orange Beach"
+  ],
+  "Alaska": [
+    "Anchorage",
+    "Juneau"
+  ],
+  "Arizona": [
+    "Scottsdale",
+    "Mesa",
+    "Gilbert",
+    "Chandler",
+    "Sedona"
+  ],
+  "Arkansas": [
+    "Hot Springs",
+    "Eureka Springs"
+  ],
+  "California": [
+    "Big Bear Lake",
+    "Joshua Tree"
+  ],
+  "Colorado": [
+    "Denver",
+    "Breckenridge"
+  ],
+  "Connecticut": [
+    "Mystic",
+    "New Haven"
+  ],
+  "Delaware": [
+    "Rehoboth Beach",
+    "Bethany Beach"
+  ],
+  "Florida": [
+    "Panama City Beach",
+    "Destin",
+    "Fort Walton Beach",
+    "Jacksonville",
+    "Davenport",
+    "Kissimmee",
+    "Cape Coral"
+  ],
+  "Georgia": [
+    "Blue Ridge",
+    "Savannah"
+  ],
+  "Hawaii": [
+    "Honolulu",
+    "Kailua-Kona"
+  ],
+  "Idaho": [
+    "Coeur d'Alene",
+    "Boise"
+  ],
+  "Illinois": [
+    "Chicago",
+    "Galena"
+  ],
+  "Indiana": [
+    "Indianapolis",
+    "Bloomington"
+  ],
+  "Iowa": [
+    "Des Moines",
+    "Davenport"
+  ],
+  "Kansas": [
+    "Wichita",
+    "Lawrence"
+  ],
+  "Kentucky": [
+    "Louisville",
+    "Lexington"
+  ],
+  "Louisiana": [
+    "New Orleans",
+    "Baton Rouge"
+  ],
+  "Maine": [
+    "Portland",
+    "Bar Harbor"
+  ],
+  "Maryland": [
+    "Ocean City",
+    "Annapolis"
+  ],
+  "Massachusetts": [
+    "Boston",
+    "Provincetown"
+  ],
+  "Michigan": [
+    "Traverse City",
+    "Grand Rapids"
+  ],
+  "Minnesota": [
+    "Duluth",
+    "Minneapolis"
+  ],
+  "Mississippi": [
+    "Biloxi",
+    "Oxford"
+  ],
+  "Missouri": [
+    "Branson",
+    "Lake Ozark"
+  ],
+  "Montana": [
+    "Bozeman",
+    "Whitefish"
+  ],
+  "Nebraska": [
+    "Omaha",
+    "Lincoln"
+  ],
+  "Nevada": [
+    "Las Vegas",
+    "Reno"
+  ],
+  "New Hampshire": [
+    "North Conway",
+    "Portsmouth"
+  ],
+  "New Jersey": [
+    "Cape May",
+    "Wildwood"
+  ],
+  "New Mexico": [
+    "Santa Fe",
+    "Taos"
+  ],
+  "New York": [
+    "Lake Placid",
+    "Saratoga Springs"
+  ],
+  "North Carolina": [
+    "Asheville",
+    "Wilmington"
+  ],
+  "North Dakota": [
+    "Fargo",
+    "Bismarck"
+  ],
+  "Ohio": [
+    "Columbus",
+    "Logan"
+  ],
+  "Oklahoma": [
+    "Broken Bow",
+    "Hochatown"
+  ],
+  "Oregon": [
+    "Bend",
+    "Portland"
+  ],
+  "Pennsylvania": [
+    "Lake Harmony",
+    "Jim Thorpe",
+    "Tobyhanna",
+    "Poconos",
+    "Hawley"
+  ],
+  "Rhode Island": [
+    "Newport",
+    "Providence"
+  ],
+  "South Carolina": [
+    "Charleston",
+    "Myrtle Beach"
+  ],
+  "South Dakota": [
+    "Deadwood",
+    "Rapid City"
+  ],
+  "Tennessee": [
+    "Sevierville",
+    "Pigeon Forge",
+    "Gatlinburg",
+    "Nashville",
+    "Johnson City"
+  ],
+  "Texas": [
+    "Austin",
+    "Manchaca",
+    "Galveston"
+  ],
+  "Utah": [
+    "Park City",
+    "Moab"
+  ],
+  "Vermont": [
+    "Stowe",
+    "Killington"
+  ],
+  "Virginia": [
+    "Virginia Beach",
+    "Luray"
+  ],
+  "Washington": [
+    "Leavenworth",
+    "Seattle"
+  ],
+  "West Virginia": [
+    "Fayetteville",
+    "Berkeley Springs"
+  ],
+  "Wisconsin": [
+    "Wisconsin Dells",
+    "Lake Geneva"
+  ],
+  "Wyoming": [
+    "Jackson",
+    "Cody"
+  ]
+}
