@@ -1,5 +1,5 @@
 {
-  "buildCommand": "python3 build_directory.py && node scripts/brand-check.mjs dist",
+  "buildCommand": "python3 build_directory.py && node scripts/instrument-conversions.mjs dist && node scripts/brand-check.mjs dist",
   "outputDirectory": "dist",
   "cleanUrls": true,
   "trailingSlash": true
