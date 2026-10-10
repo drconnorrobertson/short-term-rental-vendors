@@ -1,1 +1,6 @@
-{"buildCommand":"python3 build_directory.py","outputDirectory":"dist","cleanUrls":true,"trailingSlash":true}
+{
+  "buildCommand": "python3 build_directory.py && node scripts/brand-check.mjs dist",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": true
+}
