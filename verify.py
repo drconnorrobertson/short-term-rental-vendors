@@ -13,7 +13,9 @@ for f in d.rglob('index.html'):
  count+=1;h=Inspect();h.feed(f.read_text())
  if h.h1!=1:errors.append(str(f)+' h1')
  for l in h.links:
-  if l.startswith('/') and not (d/l.strip('/')/'index.html').exists():errors.append(str(f)+' missing '+l)
+  if l.startswith('/'):
+   target=d/l.strip('/')
+   if not target.is_file() and not (target/'index.html').is_file():errors.append(str(f)+' missing '+l)
 for e in ET.parse(d/'sitemap.xml').getroot():
  url=e[0].text;route='/'+'/'.join(url.split('/')[3:]);f=d/route.strip('/')/'index.html';h=Inspect();h.feed(f.read_text())
  if h.robot!='index,follow':errors.append('sitemap contains noindex '+route)
