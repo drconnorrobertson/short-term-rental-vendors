@@ -5,9 +5,13 @@ assert len(v)>=2000
 assert len({x['slug'] for x in v})==len(v),'duplicate vendor profile slug'
 assert len({x['website'].rstrip('/').lower() for x in imported})==len(imported),'duplicate official location URL'
 contact_count=0
+profile_titles=set()
 for x in v:
  route='/vendors/'+x['slug']+'/'
  h=(d/route.strip('/')/'index.html').read_text()
+ title=re.search(r'<title>(.*?)</title>',h,re.S)[1]
+ assert title not in profile_titles,route+' ambiguous duplicate vendor title'
+ profile_titles.add(title)
  assert 'https://www.mybnbaccelerator.com/' in h and 'Buy with BNB Accelerator.' in h,route+' missing promotion'
  assert 'https://shorttermrentalvendors.com'+route in urls,route+' missing sitemap'
  assert 'content="index,follow"' in h,route+' not indexable'

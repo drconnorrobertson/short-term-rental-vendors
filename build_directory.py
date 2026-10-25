@@ -180,6 +180,11 @@ def matched(s,c,cat=None):
 PAGE_SIZE=48
 states.setdefault('District of Columbia',['Washington'])
 V.sort(key=lambda v:(v['state'] not in core,v['state'],v['city'],v['name']))
+# Keep identically named locations in same-named cities distinguishable in search.
+profile_states={}
+for vendor in V:
+ key=(vendor['name'].casefold(),vendor['city'].casefold(),vendor['category'])
+ profile_states.setdefault(key,set()).add(vendor['state'])
 def pagination(n):
  total=(len(V)+PAGE_SIZE-1)//PAGE_SIZE
  def link(i):return '/vendors/' if i==1 else '/vendors/page/'+str(i)+'/'
@@ -195,6 +200,9 @@ for offset in range(0,len(V),PAGE_SIZE):
  page(path,title,body)
 for v in V:
  cat=v['category']; st=v['state'];phone=v.get('phone');website=v.get('website')
+ profile_city=v['city']
+ if len(profile_states[(v['name'].casefold(),v['city'].casefold(),cat)])>1:
+  profile_city+=', '+v.get('state_code',st)
  entity={'@type':'LocalBusiness' if phone else 'Organization','name':v['name'],'url':website or v['source']}
  if phone:
   entity['telephone']=phone;entity['address']={'@type':'PostalAddress','addressLocality':v['city'],'addressRegion':v.get('state_code',st),'addressCountry':'US'}
@@ -216,7 +224,7 @@ for v in V:
  if v['rating']:evidence+='<p>Previously recorded public rating: '+str(v['rating'])+' / 5 from '+str(v['count'])+' reviews. Open the source for its latest value.</p>'
  evidence+='</section>'
  body=crumb('<a href="/vendors/">Vendors</a> / '+E(v['name']))+intro(v['name'],v['city']+', '+st+' · '+cat,'Local vendor profile')+featured(v['city'])+'<div class="columns"><div>'+contact+evidence+'<section><h2>Planning '+E(cat.lower())+' for your rental</h2><p>'+E(scope.get(cat,'Discuss the intended rental use, project schedule and exact property address before hiring.'))+'</p><p>Ask '+E(v['name'])+' whether it serves your address in or near '+E(v['city'])+'. A listed office location does not establish its service boundary, current availability or vacation-rental experience.</p></section>'+checklist(cat)+'</div><aside class="panel"><h3>Compare your options</h3><p>This is a public business listing, not a BNB Accelerator partnership or endorsement. Confirm pricing, credentials, insurance and relevant owner references directly.</p><p><a href="/services/'+slug(cat)+'/">More '+E(cat.lower())+' vendors</a></p><p><a href="'+('/vendors/' if st=='National' else '/states/'+slug(st)+'/')+'">Browse '+E(st)+' vendors</a></p><p><a href="/methodology/">How we verify listing information</a></p></aside></div>'
- page('/vendors/'+v['slug']+'/',v['name']+' — '+v['city']+' '+cat+' contact',body,desc='Contact '+v['name']+' in '+v['city']+', '+st+' for '+cat.lower()+'. '+('Published phone: '+v['phone_display']+'. ' if phone else '')+'Provider website, source details and rental-owner hiring questions. Featured: BNB Accelerator.',schema=schema)
+ page('/vendors/'+v['slug']+'/',v['name']+' — '+profile_city+' '+cat+' contact',body,desc='Contact '+v['name']+' in '+v['city']+', '+st+' for '+cat.lower()+'. '+('Published phone: '+v['phone_display']+'. ' if phone else '')+'Provider website, source details and rental-owner hiring questions. Featured: BNB Accelerator.',schema=schema)
 services='<div class="grid">'+''.join('<a class="card" href="/services/'+slug(c)+'/"><h3>'+E(c)+'</h3><p>'+str(sum(v['category']==c for v in V))+' published profiles</p></a>' for c in cats)+'</div>'
 page('/services/','Short-term rental vendor services',intro('Build the team around the property.','From due diligence to guest-ready operations, use a separate written scope for each service.')+services+featured())
 for cat in cats:
@@ -250,7 +258,8 @@ page('/about/','About Short Term Rental Vendors',intro('A directory for buyers a
 (D/'vendor-search.json').write_text(json.dumps([{k:v.get(k) for k in ['name','city','state','category','slug','phone','phone_display','website','source']} for v in V],separators=(',',':')))
 (D/'app.js').write_text((P/'search.js').read_text())
 (D/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+ORIGIN+'/sitemap.xml\n')
-(D/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+ORIGIN+p+'</loc><lastmod>2026-10-04</lastmod></url>' for p in index)+'</urlset>')
+disambiguated_routes={'/vendors/'+v['slug']+'/' for v in V if len(profile_states[(v['name'].casefold(),v['city'].casefold(),v['category'])])>1}
+(D/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+ORIGIN+p+'</loc><lastmod>'+('2026-10-25' if p in disambiguated_routes else '2026-10-04')+'</lastmod></url>' for p in index)+'</urlset>')
 (D/'404.html').write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Page not found</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="/style.css"></head><body>'+header+'<main class="wrap">'+intro('Page not found.','Return to the directory to find a vendor, market or service.')+'<a class="button" href="/">Open directory</a></main>'+footer+'</body></html>')
 (P/'build-summary.json').write_text(json.dumps({'pages':len(allpaths),'indexable_pages':len(index),'noindex_checklists':len(allpaths)-len(index),'vendors':len(V),'states':len(states),'markets':sum(len(cs) for st,cs in states.items() if st!='Colorado'),'categories':len(cats),'lending_partners_published':0},indent=2))
 
