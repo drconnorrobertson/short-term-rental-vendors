@@ -1,0 +1,4 @@
+order,area,expected_item,observed_reference,status,next_action
+O100,D01 dining,TABLE10,TABLE10,receiving observed; setup separately reviewed,follow actual setup scope
+O100,W01 desk,two CH20 chairs,CH20 and CH21,identifier mismatch unresolved,seller confirmation before affected setup
+O100,E01 entry,STORE30,STORE30,receiving observed; setup separately reviewed,follow actual setup scope
