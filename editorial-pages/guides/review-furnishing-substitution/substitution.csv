@@ -1,0 +1,3 @@
+fictional_reference,item_or_view,known_context,limit_or_question
+EXAMPLE-A,Requested table,Width100cm / quoteditem240fictionalunits,No room fit or totalcost established
+EXAMPLE-B,Proposed table,Width105cm / quoteditem220fictionalunits,Not approved; timing and othercosts unresolved
