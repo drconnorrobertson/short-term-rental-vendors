@@ -1,0 +1,5 @@
+fictional_item,approved_qty,invoice_qty,unit_usd,approved_total_usd,invoice_total_usd,difference_usd,review
+chairs,4,5,75,300,375,75,Additional approval reference not yet located
+lamps,2,2,40,80,80,0,Quantity and rate match
+rug,1,1,180,180,180,0,Quantity and rate match
+delivery,1,1,60,60,60,0,Listed charge matches; actual terms separate
