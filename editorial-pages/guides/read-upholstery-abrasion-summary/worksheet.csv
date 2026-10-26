@@ -1,0 +1,5 @@
+fictional_report,reported_number,reported_method,reported_unit,scope,unresolved_question
+A,30000,Wyzenbeek,double rubs,Fictional fabric summary; not actual test,Confirm complete report/product applicability
+B,40000,Martindale,cycles,Different method; no conversion from A,Confirm complete report/product applicability
+C,100000,,,Incomplete fictional summary,Method and unit missing
+D,60000,Wyzenbeek,double rubs,Numerical ratio to A is2; not lifespan ratio,Endpoint explanation not supplied
