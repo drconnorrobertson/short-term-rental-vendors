@@ -1,0 +1,9 @@
+fictional_product,record_type,package_id,axis1,value1,axis2,value2,axis3,value3,unit
+A,assembled,,width,60,depth,50,height,80,cm
+A,package,A1,length,65,width,55,height,20,cm
+A,package,A2,length,82,width,12,height,10,cm
+B,assembled,,width,120,depth,40,height,45,cm
+B,package,B1,length,125,width,45,height,15,cm
+C,assembled,,width,24,depth,20,height,32,inch
+D,assembled,,width,90,depth,,height,75,cm
+D,package,D1,length,95,width,30,height,20,cm
