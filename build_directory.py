@@ -270,7 +270,7 @@ if editorial_root.exists():
    allpaths.append(route);index.append(route);editorial_paths.add(route)
  methodology=D/'methodology'/'index.html'
  text=methodology.read_text()
- links=''.join('<li><a href="'+route+'">Compare vendor quote scopes with a practical worksheet</a></li>' for route in sorted(editorial_paths))
+ links=''.join('<li><a href="'+route+'">'+E(html.unescape(re.search(r'<title>(.*?)</title>',(D/route.strip('/')/'index.html').read_text(),re.S)[1]))+'</a></li>' for route in sorted(editorial_paths))
  methodology.write_text(text.replace('</main>','<section><h2>Apply the evidence standard</h2><ul>'+links+'</ul></section></main>'))
 
 (D/'vendor-search.json').write_text(json.dumps([{k:v.get(k) for k in ['name','city','state','category','slug','phone','phone_display','website','source']} for v in V],separators=(',',':')))
