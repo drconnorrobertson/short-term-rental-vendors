@@ -1,0 +1,7 @@
+fictional_entry,object_scope,source_unit,width,length,object_height_mm,quantity
+A,mattress_illustrative_queen,inch,60,80,250,1
+B,mattress_illustrative_king,cm,150,200,200,1
+C,mattress,cm,152,203,,1
+D,frame_exterior,mm,1650,2150,,1
+E,package_only,mm,400,400,1000,1
+F,two_separate_rectangles,mm,900,2000,,2
