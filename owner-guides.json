@@ -1030,5 +1030,1037 @@
     "sourceLabel": "NIST background on outsourced responsibilities",
     "published": "2026-11-20",
     "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-vendor-reference-interview",
+    "title": "Run a useful rental-vendor reference interview",
+    "description": "Ask consistent, specific questions about comparable work without treating references as a guarantee.",
+    "intro": "A reference conversation is most useful when it explores work resembling the assignment you intend to buy. A general recommendation may say little about communication, scheduling or the type of property involved. Prepare a short question set and record what the person actually observed. This guide does not verify a vendor’s qualifications, guarantee future performance or substitute for the other checks appropriate to the engagement.",
+    "sections": [
+      {
+        "title": "Choose comparable experience",
+        "text": "Describe your proposed assignment before asking the vendor for references. Identify the service, approximate complexity and operating constraints that matter. A satisfied customer from a different service can still offer context, but do not silently treat the experience as directly comparable. Ask when the work took place and what the reference personally oversaw rather than accepting a broad statement about the business."
+      },
+      {
+        "title": "Ask about the working process",
+        "text": "Explore how the initial scope was agreed, who communicated changes and how scheduling worked. Ask for concrete examples of a question or exception and how it was resolved. Avoid questions that invite only a yes-or-no endorsement. The purpose is to understand the experience, including the customer’s own role, not to pressure the reference into making an unsupported recommendation."
+      },
+      {
+        "title": "Separate observations from conclusions",
+        "text": "Record statements such as the provider arrived within the agreed window separately from opinions such as always reliable. Clarify the time period and number of visits behind a statement. A reference may know little about licensing, coverage or work performed out of view. Verify those matters through the appropriate sources rather than treating the conversation as evidence of every requirement."
+      },
+      {
+        "title": "Compare the same questions across candidates",
+        "text": "For a fictional recurring service search, ask each reference how missed work, extra charges and contact changes were handled. One detailed example may be more useful than several general compliments. Keep the questions consistent while allowing relevant follow-up. Note where the reference’s situation differed from your property so a favorable answer does not conceal a mismatch in scope or expectations."
+      },
+      {
+        "title": "Keep a concise decision record",
+        "text": "Summarize the date, relationship to the project, relevant observations and unresolved questions without collecting unnecessary personal information. Combine the record with the actual proposal and other verification. A reference is one input, not permission to skip a written scope. Preserve why the experience was considered relevant and what you still need to confirm directly with the provider."
+      },
+      {
+        "title": "Handle conflicting references",
+        "text": "Two customers may describe different experiences without either account being false. Record the assignment, timing and circumstances behind each answer. Ask a focused follow-up rather than averaging the comments into an invented score. The difference may reveal a scope mismatch, a change in staffing or an unanswered question. Use the information to refine the proposal discussion, while keeping individual opinions separate from claims you can independently verify about the provider."
+      }
+    ],
+    "checklist": [
+      "Comparable assignment and time period",
+      "Consistent process questions",
+      "Observed facts separated from opinions",
+      "Scope differences noted",
+      "Concise findings and follow-up list"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "confirm-rental-vendor-service-area",
+    "title": "Confirm a vendor serves the actual rental address",
+    "description": "Check service boundaries, travel charges, response assumptions and assignment acceptance before relying on a listing.",
+    "intro": "A city name in a directory is a starting point for research, not proof that a vendor accepts every property nearby. Service boundaries may depend on the task, schedule and travel requirements. Confirm the actual address and assignment directly before building an operating plan around the provider. Avoid treating a branch location or past customer review as a commitment to serve your property.",
+    "sections": [
+      {
+        "title": "Provide a precise initial brief",
+        "text": "Give the address or the level of location detail appropriate for a preliminary enquiry, the service needed and relevant timing. Identify access constraints and the type of visit. A provider may accept a scheduled project in an area without offering urgent callouts there. Ask for that distinction rather than assuming every advertised service uses the same coverage boundary."
+      },
+      {
+        "title": "Ask about the acceptance decision",
+        "text": "Confirm whether the provider is accepting new work of this kind and who makes that decision. A directory entry may remain visible when a schedule is full. Ask whether a site visit is required before acceptance and what that visit costs. Keep preliminary availability separate from a confirmed appointment or recurring agreement."
+      },
+      {
+        "title": "Clarify travel and dispatch charges",
+        "text": "Request the travel, minimum-visit and out-of-area charges that apply to the proposed property. Identify where the calculation starts and whether it varies by service time. A lower hourly rate can produce a higher visit cost if travel and minimums differ. Compare written examples using the same location and assignment rather than substituting a nearby city in the quote."
+      },
+      {
+        "title": "Test a realistic scheduling scenario",
+        "text": "For a fictional property that needs planned monthly work and occasional extra visits, ask the provider to explain both arrangements. Record normal lead times as estimates unless the agreement defines a commitment. Do not assume a scheduled-service relationship guarantees emergency availability. Identify the owner’s backup process if the vendor cannot accept a particular request."
+      },
+      {
+        "title": "Retain the confirmation and review it",
+        "text": "Record the person, date, agreed service location and scope. Link the answer to the proposal or appointment. Reconfirm after a property change, vendor branch change or material gap in service rather than relying indefinitely on an old email. A useful service-area record shows exactly what was accepted and what remained subject to scheduling or further assessment."
+      },
+      {
+        "title": "Recheck after a move or expansion",
+        "text": "If the owner adds another property, do not copy the first property’s service confirmation automatically. Even a nearby address may change travel, access or scheduling conditions. Send a fresh brief for the new assignment and record the reply. The original provider may remain a candidate, but the operating plan should not depend on coverage that has never been accepted. Keep each address’s confirmation linked to its own scope."
+      }
+    ],
+    "checklist": [
+      "Exact property and assignment brief",
+      "Current acceptance and scheduling confirmation",
+      "Travel and minimum charges",
+      "Routine versus extra-visit coverage",
+      "Dated written confirmation and review trigger"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "vendor-site-visit-briefing-packet",
+    "title": "Prepare a vendor site-visit briefing packet",
+    "description": "Give competing providers consistent site information while documenting assumptions and unanswered questions.",
+    "intro": "A site visit can expose details that are missing from a remote quote, but it works best when each bidder receives consistent information. Prepare a packet that describes the assignment and lets qualified providers identify their own methods and concerns. This guide does not replace a technical survey or authorize access to a property. It helps the owner compare what each provider actually assessed.",
+    "sections": [
+      {
+        "title": "Define the purpose of the visit",
+        "text": "State whether the visit supports an estimate, diagnosis, measurement or another defined task. Identify the output expected and any fee. A free introductory visit and a paid technical assessment should not be treated as interchangeable. Ask each provider to explain what it can conclude from the planned visit and what would require additional work or specialist involvement."
+      },
+      {
+        "title": "Assemble the same background material",
+        "text": "Prepare plans, photographs, model references and relevant service history that you are authorized to share. Mark uncertain or outdated information. Avoid giving one bidder a revised scope while another relies on the original description. Use document dates and versions so the discussion can be traced later without assuming that a drawing matches every current site condition."
+      },
+      {
+        "title": "Plan access and participation",
+        "text": "Confirm who may enter, which areas are available and who can answer owner questions. Arrange access through the approved property process. Keep unnecessary guest and security information out of the packet. A coordinator can explain the requested outcome, but qualified providers should assess technical conditions and identify constraints rather than follow an owner’s unverified diagnosis."
+      },
+      {
+        "title": "Capture assumptions during the visit",
+        "text": "For a fictional measurement visit, record which rooms or components were inspected and which were inaccessible. Ask how missing access affects the estimate. Do not let an unvisited area become silently included under an assumed condition. Preserve questions that need answers before a final quote, and give material answers consistently to the bidders still being compared."
+      },
+      {
+        "title": "Compare the written follow-up",
+        "text": "Request the scope, assumptions, exclusions and next steps arising from the visit. Separate observations from a firm commitment to complete work at a particular price. Keep the visit record with the later proposal so changes can be explained. If the assignment materially changes, ask whether another assessment is needed rather than treating the first visit as permanently sufficient."
+      },
+      {
+        "title": "Retain paid assessment deliverables",
+        "text": "If a site visit includes a paid report, agree on the format and the owner’s permitted use before booking. Ask whether another provider may rely on it or whether it is limited to the original proposal. Do not assume the fee buys every working note or design file. Keep the delivered report, invoice and stated limitations together so later purchasing decisions use the information in its proper context."
+      }
+    ],
+    "checklist": [
+      "Visit purpose and expected output",
+      "Consistent dated background documents",
+      "Authorized access and participants",
+      "Inspected areas and unresolved assumptions",
+      "Written scope and next-step comparison"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "dated-vendor-quote-validity-review",
+    "title": "Review quote dates, lead times and price validity",
+    "description": "Separate quotation validity, ordering deadlines and estimated delivery when comparing vendor proposals.",
+    "intro": "A quote date, an expiration date and a delivery estimate answer different questions. Owners can make poor comparisons when those dates are collapsed into one expectation. Build a dated review that shows when the price can be accepted, what starts the lead time and what remains uncertain. This guide does not interpret contract enforceability or guarantee a supplier’s future schedule.",
+    "sections": [
+      {
+        "title": "Identify the quoted version",
+        "text": "Record the provider, scope, amount, issue date and validity terms. Keep amendments and revised options with clear references. A more recent email does not necessarily replace every part of an earlier proposal. Ask the provider to identify the current complete offer when several versions have circulated, rather than combining favorable details from different versions."
+      },
+      {
+        "title": "Distinguish acceptance from scheduling",
+        "text": "Ask what confirms the order and what event starts the stated lead time. It may depend on an approval, deposit, final specification or other condition described by the provider. Do not start the calendar from the first enquiry merely because that date is convenient. Record conditions still outstanding and who is responsible for satisfying them."
+      },
+      {
+        "title": "Label estimates and commitments accurately",
+        "text": "Keep an estimated dispatch date separate from a confirmed appointment or contractually defined deadline. Ask how changes will be communicated. A provider’s typical lead time is context, not proof that your order will follow it. Where timing is essential, have the appropriate adviser review the proposed terms and the consequences of a delay."
+      },
+      {
+        "title": "Compare a common decision timeline",
+        "text": "For a fictional purchase approved on Monday but awaiting a final measurement on Friday, show both dates in the plan. Ask each bidder when it could actually schedule the work under those conditions. A lower price valid only before the measurement may not describe the same practical choice as a later complete proposal. Document the assumptions instead of forcing the dates to match."
+      },
+      {
+        "title": "Reconfirm before committing",
+        "text": "Check availability, price and outstanding conditions at the point the owner is ready to proceed. Preserve the provider’s acknowledgement and revised schedule. If the quote has expired, request an update rather than assuming the old number still applies. A dated record makes it easier to explain why the final order differs from the first estimate without calling every difference an error."
+      },
+      {
+        "title": "Track several dates without merging them",
+        "text": "A sample schedule might show price acceptance on the tenth, final specifications on the fifteenth and estimated shipment two weeks later. Preserve all three events and their sources. Changing the specification date may change shipment timing even if the quoted price remains valid. Ask the supplier which relationship actually applies. A clear timeline helps the owner see dependencies without converting an estimate into a commitment the provider has not made."
+      }
+    ],
+    "checklist": [
+      "Current complete quotation version",
+      "Validity and acceptance conditions",
+      "Lead-time starting event",
+      "Estimated versus committed dates",
+      "Reconfirmation and order acknowledgement"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "recurring-vendor-renewal-review",
+    "title": "Review a recurring vendor agreement before renewal",
+    "description": "Compare the actual service record, changing needs and renewal terms before extending a recurring arrangement.",
+    "intro": "A recurring service can become a default even when the property or its needs have changed. A renewal review should examine both performance and scope, not just the new rate. Prepare the review early enough to understand the applicable notice process. This guide does not interpret renewal clauses or establish cancellation rights; use the actual agreement and qualified advice where needed.",
+    "sections": [
+      {
+        "title": "Collect the current agreement and changes",
+        "text": "Assemble the signed scope, price schedule, amendments and relevant notices. Identify the term and the process for asking questions about renewal. Do not assume an old proposal is the complete current agreement. Record where later changes were approved so the review compares the service actually purchased rather than the package originally advertised."
+      },
+      {
+        "title": "Review the service evidence",
+        "text": "Summarize visits, completion records, unresolved issues and material changes in provider contacts. Separate observed problems from general impressions. A single unusual event may need a different response from a repeated pattern. Keep the property’s own contribution visible, such as failed access or delayed approvals, rather than attributing every difference to vendor performance."
+      },
+      {
+        "title": "Update the property requirement",
+        "text": "List changed equipment, areas, occupancy patterns or owner expectations that affect the work. Ask which parts of the existing scope remain useful and which need revision. A higher renewal price may include additional work, while an unchanged price may conceal a reduced service. Compare the proposed tasks and frequencies before drawing a conclusion about the rate."
+      },
+      {
+        "title": "Build a decision comparison",
+        "text": "For a fictional service completed monthly, compare continuing as offered, adjusting the scope and seeking a new proposal. Include transition work and any overlap needed to avoid an operating gap. These scenarios are planning inputs, not a recommendation to switch. Preserve assumptions about notice, timing and availability until they are confirmed through the relevant agreement and provider."
+      },
+      {
+        "title": "Document the selected outcome",
+        "text": "Record the owner’s decision, approved scope and the effective date. Confirm the provider’s acknowledgement and update the operating calendar. If the service ends, arrange records, keys or access changes through the approved process. A completed renewal review should leave a usable agreement and clear responsibilities, not merely a note that the relationship was continued."
+      },
+      {
+        "title": "Compare renewal frequency as well as price",
+        "text": "A proposed annual total can conceal fewer visits, different reporting or a changed minimum charge. Put the old and new frequencies beside their prices and identify excluded work. For example, a lower total for six visits should not be presented as a saving on twelve visits. Keep the arithmetic simple and the service definitions visible. Where the work no longer matches the property’s needs, request a revised scope before deciding."
+      }
+    ],
+    "checklist": [
+      "Current agreement and amendments",
+      "Evidence-based service summary",
+      "Updated property requirement",
+      "Comparable continuation and change scenarios",
+      "Acknowledged decision and effective scope"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "backup-rental-vendor-coverage-plan",
+    "title": "Build a realistic backup-vendor coverage plan",
+    "description": "Confirm a backup provider’s actual scope and acceptance process before relying on it during a service gap.",
+    "intro": "A second phone number is not a complete backup plan. A provider may be able to help only with certain work or after a new assessment. Owners should confirm those boundaries before a gap occurs. This guide organizes backup coverage for routine vendor services; it does not replace emergency procedures or guarantee that anyone will be available on demand.",
+    "sections": [
+      {
+        "title": "Identify the service gap to cover",
+        "text": "Describe the task, property, timing and records a substitute would need. Separate routine visits from specialist work requiring different qualifications or equipment. A backup cleaner, for example, is not automatically a backup maintenance provider. Keep the planned role narrow enough that a candidate can give a meaningful answer about acceptance and preparation."
+      },
+      {
+        "title": "Confirm current willingness and capacity",
+        "text": "Ask whether the provider accepts occasional work, what advance notice it usually needs and whether an initial site visit is required. Record the answer as dated information, not a permanent promise. A vendor appearing in a local directory has not agreed to serve as your backup. Reconfirm after material changes in property, service or provider circumstances."
+      },
+      {
+        "title": "Prepare a controlled handoff packet",
+        "text": "Keep the approved task scope, relevant property information and reporting process ready for authorized use. Do not circulate active credentials or guest details to every potential provider. Identify who releases access after an actual assignment is accepted. A prepared packet reduces confusion while keeping vendor research separate from permission to enter or act for the owner."
+      },
+      {
+        "title": "Test a non-emergency scenario",
+        "text": "For a fictional missed routine visit, trace how the owner confirms the gap, contacts the backup and approves the quoted work. Note any lead time, travel charge or minimum that affects the decision. Do not simulate an emergency by making unnecessary calls. Use the exercise to expose missing information and set a practical expectation about what the plan can accomplish."
+      },
+      {
+        "title": "Maintain the relationship and records",
+        "text": "Review contacts periodically and record actual backup jobs with their own scope and invoices. Tell the primary provider about changes where appropriate under the arrangement. Keep the plan from becoming an uncontrolled list of people with access. A backup service is most useful when acceptance, authority and evidence are clear for each individual assignment."
+      },
+      {
+        "title": "Record limits on backup commitments",
+        "text": "A backup may agree to assess requests without reserving staff or stock for the property. Record that distinction. Do not advertise guaranteed cover to another owner representative when the agreement only offers a contact route. After a real backup assignment, review what information was missing and update the packet. The plan should become more useful through actual evidence, not more confident merely because the same name remains on the list."
+      }
+    ],
+    "checklist": [
+      "Defined backup task and property",
+      "Dated acceptance and lead-time information",
+      "Controlled handoff packet",
+      "Routine-gap decision scenario",
+      "Periodic contact and access review"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-service-warranty-file",
+    "title": "Prepare a service-warranty follow-up file",
+    "description": "Connect the original work, written terms, observed issue and provider response without assuming coverage.",
+    "intro": "A problem after service does not by itself establish that a warranty applies or that the original work caused it. A useful follow-up file preserves the facts and the actual terms. Owners can use it to ask a clear question and track the response. This guide does not interpret warranty law or determine who must pay for a particular repair.",
+    "sections": [
+      {
+        "title": "Locate the original service record",
+        "text": "Collect the approved scope, invoice, completion date and relevant product or equipment information. Identify the provider and the work actually performed. A payment statement may show a charge without explaining the service. Keep any completion report or documented limitation so the next review begins with the whole record rather than only the owner’s recollection."
+      },
+      {
+        "title": "Read the supplied terms in context",
+        "text": "Find the warranty or service terms that accompanied the work and note any referenced documents. Ask the provider to identify which terms it considers applicable. Do not substitute a general website promise for the agreement on a specific job. Have qualified advice address unclear obligations, exclusions or deadlines instead of treating a checklist as a coverage decision."
+      },
+      {
+        "title": "Record the new observation",
+        "text": "Describe the symptom, location and date without assuming it is identical to the original problem. Include appropriate photographs and the sequence of events. Distinguish a technician’s current findings from the owner’s hypothesis. If the situation requires an urgent professional response, follow the established process rather than delaying action merely to complete the warranty file."
+      },
+      {
+        "title": "Ask a precise follow-up question",
+        "text": "For a fictional repaired appliance with a new symptom, ask whether the provider needs another assessment and what charges or terms apply to that visit. Keep the request separate from a demand based on an unverified cause. Record the response and who may authorize additional work. A provider’s agreement to inspect does not necessarily resolve the underlying coverage question."
+      },
+      {
+        "title": "Track the resolution and costs",
+        "text": "Retain the outcome, revised invoice or credit and any remaining work. Separate no-charge follow-up, paid new work and unresolved disputes. Update the asset history with what was actually established. A concise final note should connect the original job, new evidence and resolution so another owner representative can understand the issue without recreating the entire conversation."
+      },
+      {
+        "title": "Keep missing documents visible",
+        "text": "If the original invoice or warranty terms cannot be found, tell the provider and record what evidence is available. A bank charge can support the timing of a payment but may not identify the work or terms. Ask whether the provider can supply its record. Do not fill the gap with a warranty statement from a different product or job. The follow-up file should make the uncertainty clear to the person reviewing it."
+      }
+    ],
+    "checklist": [
+      "Original scope and completion evidence",
+      "Applicable written terms",
+      "Dated new observations",
+      "Clear provider question and authorization",
+      "Resolution, charges and asset-history update"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "second-opinion-repair-packet",
+    "title": "Prepare a repair second-opinion packet",
+    "description": "Give another qualified provider clear records and unanswered questions without predetermining its conclusion.",
+    "intro": "A second opinion can be useful when a repair proposal leaves material questions unanswered. Its value depends on giving the next qualified provider accurate facts and room to assess them independently. Prepare a packet that distinguishes observations, prior findings and the decision required. This guide does not diagnose equipment or imply that a different provider must disagree with the first.",
+    "sections": [
+      {
+        "title": "State the decision you need to make",
+        "text": "Describe whether you need clarification of the proposed scope, an alternative assessment or a comparison of complete options. Avoid commissioning an open-ended visit without explaining the question. Ask what the second provider can assess, the expected output and the charge. A review of records may be different work from an onsite diagnostic visit."
+      },
+      {
+        "title": "Assemble the existing evidence",
+        "text": "Include equipment identifiers, observations, relevant history and the first provider’s actual written findings. Preserve qualifications and limitations in the original report. Do not edit the packet to remove facts that conflict with the outcome you prefer. The second provider should be able to see what is known and what information is still missing."
+      },
+      {
+        "title": "Separate competing scopes",
+        "text": "A lower quote may describe different work rather than a different view of the same problem. Ask each provider to identify parts, labor, prerequisites and excluded work. For a fictional recommendation involving a component plus a separate access repair, make both elements visible. Comparing only the component line would not explain the complete assignment or cost."
+      },
+      {
+        "title": "Document agreement and uncertainty",
+        "text": "Record where the providers agree, where they differ and what evidence each uses. Have qualified people address technical disagreements. Do not treat the number of matching opinions as a substitute for understanding the issue. If further testing is recommended, describe the unanswered question and how that testing would inform the owner’s decision."
+      },
+      {
+        "title": "Make and preserve the owner decision",
+        "text": "Record the selected scope, provider, authorization and reasons supported by the information available. Track completion and retain the rejected alternatives as context. A second opinion is an input to a decision, not proof that every future outcome is guaranteed. Update the maintenance history with the work performed rather than merely filing the two quotes side by side."
+      },
+      {
+        "title": "Compare assessment fees separately",
+        "text": "One provider may charge for a diagnostic visit while another quotes from supplied records. Those are different review scopes. Record the fee and the output expected from each before comparing the eventual repair proposal. A no-cost estimate is not necessarily a substitute for a paid assessment, and a higher assessment fee does not establish better advice. The owner should understand what information each engagement is intended to produce."
+      }
+    ],
+    "checklist": [
+      "Defined question and review scope",
+      "Unedited prior findings and equipment records",
+      "Comparable complete repair scopes",
+      "Agreements, differences and unknowns",
+      "Owner decision and completion evidence"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "replacement-part-compatibility-record",
+    "title": "Verify a replacement-part proposal before ordering",
+    "description": "Connect model information, proposed parts, qualified confirmation and return conditions in one approval record.",
+    "intro": "A replacement part can appear similar to the original while differing in a way that matters to the equipment. Owners should not turn a visual match or a marketplace description into a technical compatibility decision. Use a record that connects the proposed item to reliable model information and qualified confirmation. This guide organizes purchasing; it does not instruct installation or determine safe use.",
+    "sections": [
+      {
+        "title": "Identify the equipment accurately",
+        "text": "Record the appliance or system model, relevant serial information and available manufacturer documents. Photograph identifiers only when it is appropriate and safe to do so. Avoid guessing from the product’s general appearance. Ask a qualified provider to resolve missing or unreadable information before treating an approximate identification as the basis for an order."
+      },
+      {
+        "title": "Describe the proposed part precisely",
+        "text": "Keep the part number, supplier listing, version and any substitution note. Distinguish original equipment, an approved alternative and an unverified candidate. Similar names or dimensions alone do not establish compatibility. Record who is expected to make the technical selection and what evidence supports that choice, rather than placing the whole decision on the person processing payment."
+      },
+      {
+        "title": "Check the complete installation scope",
+        "text": "Ask whether the proposal includes related components, labor, testing and any additional work needed. A part-only price is different from an installed repair quote. For a fictional replacement ordered by a service company, identify whether the owner or provider bears responsibility for selecting and returning the item if it does not match the confirmed requirement."
+      },
+      {
+        "title": "Review supply and return conditions",
+        "text": "Record stock status, delivery estimate and the supplier’s stated return process. Ask what changes if packaging is opened or the item is installed. Do not assume every special-order component is returnable. Have the appropriate adviser address unclear terms, while the qualified service provider addresses technical suitability and the implications of a proposed alternative."
+      },
+      {
+        "title": "Retain approval and outcome",
+        "text": "Connect the final order to the technical confirmation and owner authorization. After the work, record the part actually installed, service report and any remaining issue. If the item was not used, track its return or approved storage separately. The completed file should explain the decision and result without implying that a purchasing checklist certified the repair."
+      },
+      {
+        "title": "Check the delivered identifier",
+        "text": "When the part arrives, have the responsible person compare the delivered identifier and packaging record with the approved order before the qualified installer proceeds. Record discrepancies and follow the supplier’s process. An order confirmation does not prove that the correct item was shipped. Keep the check separate from the professional decision about installation and operation; the owner’s purchasing record should not be treated as technical approval to use a component."
+      }
+    ],
+    "checklist": [
+      "Confirmed equipment identity",
+      "Exact proposed part and evidence",
+      "Selection and installation responsibilities",
+      "Stock, delivery and return conditions",
+      "Approval and installed-part outcome"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "vendor-backorder-decision-log",
+    "title": "Manage a vendor backorder with a decision log",
+    "description": "Compare waiting, changing scope and cancelling using documented availability, costs and approvals.",
+    "intro": "A backorder can affect more than the expected delivery date. It may delay another provider, change the work sequence or leave the owner deciding whether to accept an alternative. Keep a decision log that separates supplier information from assumptions. This guide does not determine contractual remedies or recommend a substitute product; use the actual terms and qualified advice for those questions.",
+    "sections": [
+      {
+        "title": "Confirm the current order status",
+        "text": "Record the order reference, item, quantity, supplier statement and date checked. Distinguish an estimated restock date from a confirmed allocation or dispatch. Ask which parts of the order are available and what the supplier needs to release them. An automated availability message may not answer whether the specific order has been assigned stock."
+      },
+      {
+        "title": "Map the operating dependencies",
+        "text": "List installation, access, other trades and operating decisions affected by the missing item. Give each dependency an owner. Do not assume that moving the delivery date automatically moves every appointment. A clear map lets the owner see whether the delayed item blocks all work or only a separate part of the project."
+      },
+      {
+        "title": "Compare supported options",
+        "text": "For a fictional order, compare waiting for the original item, accepting a qualified alternative and cancelling where permitted. Record complete charges, timing estimates and uncertainty for each. A faster substitute may require other changes that make the first price comparison misleading. Keep technical acceptance separate from the decision about whether the owner is willing to pay for the option."
+      },
+      {
+        "title": "Approve changes deliberately",
+        "text": "Record the selected option, authorized person and supplier acknowledgement. If the order is split, identify quantities, freight and remaining balances clearly. Do not rely on an informal assurance that everything will be sorted out later. Have unclear cancellation, deposit or refund terms reviewed through the appropriate process before treating a proposed outcome as settled."
+      },
+      {
+        "title": "Follow through to receipt or closure",
+        "text": "Update the log when stock is allocated, dispatched, received, returned or cancelled. Preserve earlier estimates so the history remains understandable. Close the issue only when the selected outcome is supported by documents and any financial adjustment is reconciled. Review repeated backorders when planning future purchases rather than adding an undocumented blanket buffer to every order."
+      },
+      {
+        "title": "Handle partial availability explicitly",
+        "text": "If one item is available and another is delayed, ask how split delivery affects freight, installation and storage. For a fictional two-item order, receiving the first item may not permit the planned work to proceed. Do not report the whole order as received merely because a shipment arrived. Track each line’s status and the dependency it satisfies so the owner can decide whether a partial delivery is useful."
+      }
+    ],
+    "checklist": [
+      "Dated supplier status and allocation evidence",
+      "Dependency owners and affected appointments",
+      "Complete alternatives with uncertainty",
+      "Authorized change and acknowledgement",
+      "Receipt, cancellation or refund closure"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "remote-contractor-progress-record",
+    "title": "Set up a remote contractor progress record",
+    "description": "Use agreed stages, relevant photographs and exception notes to follow work without treating updates as a technical inspection.",
+    "intro": "Owners who are not onsite need progress information that supports decisions, not a stream of unexplained images. Agree on stages and the evidence expected before work begins. The resulting record can show what was reported and what needs attention. It does not replace qualified inspection, establish hidden conditions or authorize payment merely because a photograph was sent.",
+    "sections": [
+      {
+        "title": "Define the stages to report",
+        "text": "Connect updates to the approved scope and realistic work sequence. Identify points when a decision, inspection or separate provider may be needed before work continues. Ask the contractor to explain what can be documented remotely and what cannot. Avoid inventing reporting milestones that conflict with the actual method selected by the qualified provider."
+      },
+      {
+        "title": "Make photographs understandable",
+        "text": "Use a property, area and work reference with the date and description. Ask for enough context to locate the image without collecting unnecessary personal information. A close-up can be useful but may not show how it relates to the larger job. Keep original files and avoid treating edited marketing images as the operational record."
+      },
+      {
+        "title": "Separate progress from exceptions",
+        "text": "Require the update to distinguish completed stages, work underway, blockers and new proposals. For a fictional project waiting for a hidden-condition assessment, a report of materials delivered is not evidence that installation is complete. Assign an owner to each unanswered question and record the next decision needed rather than repeating a vague percentage-complete figure."
+      },
+      {
+        "title": "Control approvals and changes",
+        "text": "State who may approve a new scope, changed method or additional charge. A response acknowledging a photo should not silently become authorization for extra work. Connect approvals to the actual proposal version. Have qualified people resolve technical questions and the appropriate reviewer address contract terms, rather than asking the remote coordinator to infer them from images."
+      },
+      {
+        "title": "Use the record at closeout",
+        "text": "Collect final reports, required inspections, instructions and unresolved items as appropriate to the job. Compare the agreed stages with the completed work. The progress record should make it easier to understand the closeout, not replace the separate acceptance process. Retain the documents that explain what was done and which limitations or follow-up tasks remain."
+      },
+      {
+        "title": "Avoid unsupported completion percentages",
+        "text": "A photograph of delivered materials does not establish that a job is fifty percent complete. Ask the provider to connect progress to defined deliverables or stages. Keep any percentage identified as the provider’s estimate unless the agreement supplies a specific calculation. This helps the owner understand the update without turning an informal number into a payment trigger or technical certification. Record the evidence supporting the next decision rather than chasing a more impressive progress figure."
+      }
+    ],
+    "checklist": [
+      "Scope-linked reporting stages",
+      "Dated and located evidence",
+      "Distinct progress, blocker and change notes",
+      "Named approval boundaries",
+      "Closeout documents and unresolved items"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "contractor-completion-exception-list",
+    "title": "Build a contractor completion and exception list",
+    "description": "Separate completed work, defects, excluded items and deferred decisions during a project handoff.",
+    "intro": "A project handoff is clearer when the owner can see what was completed and which issues remain. A single statement that the work is finished can hide excluded items or a promised return visit. Build a list linked to the agreed scope and the appropriate inspection process. This guide does not provide technical acceptance criteria or decide payment and warranty rights.",
+    "sections": [
+      {
+        "title": "Start from the approved scope",
+        "text": "List deliverables using the same references as the proposal and any approved changes. Do not add new expectations at the final walkthrough without identifying them as a separate request. Keep the current scope version visible. A completion review is easier to conduct fairly when both parties can distinguish contracted work from an improvement the owner considered later."
+      },
+      {
+        "title": "Use distinct status categories",
+        "text": "Separate complete, requiring correction, excluded, awaiting information and deferred by agreement. Ask the qualified reviewer to assess technical conditions within the appropriate role. Avoid calling every cosmetic observation a defect or marking a hidden system satisfactory without evidence. The list should describe what was observed and what decision remains, not supply an unsupported professional conclusion."
+      },
+      {
+        "title": "Make each exception actionable",
+        "text": "For a fictional missing component, record the location, agreed item, responsible party and expected next step. Attach suitable evidence and avoid vague entries such as finish details. If a supplier delay affects the work, keep that cause separate from the owner’s decision about the operating plan. Name who will check the result when the component arrives."
+      },
+      {
+        "title": "Separate follow-up and payment decisions",
+        "text": "Connect return visits, additional approvals and any required professional inspection to the exception record. Do not infer that a payment is due or may be withheld from the existence of an open item alone. Those questions depend on the actual arrangement and qualified review. Keep the operational status accurate even while a separate commercial question is being resolved."
+      },
+      {
+        "title": "Close the record deliberately",
+        "text": "Preserve evidence of corrections and the final owner or reviewer decision. Keep deferred items visible with their reason rather than deleting them. Deliver instructions, warranties and service contacts through a controlled handoff. A completed list should allow a future manager to understand both the work received and the remaining limitations without relying on an undocumented conversation."
+      },
+      {
+        "title": "Review handover documents separately",
+        "text": "A physical task can be complete while an agreed manual, inspection record or other document is still missing. Give those deliverables their own line in the exception list. Do not assume the installer’s departure closes the documentation work. Identify who supplies each item and when it will be reviewed. This avoids discovering months later that the property has equipment but no accessible record of its installation, instructions or service contact."
+      }
+    ],
+    "checklist": [
+      "Approved scope and change references",
+      "Meaningful completion status categories",
+      "Specific exceptions with owners",
+      "Separate follow-up and payment decisions",
+      "Documented correction and final handoff"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "supplier-order-acknowledgement-review",
+    "title": "Review a supplier order acknowledgement",
+    "description": "Match the supplier’s accepted order to the owner’s approved quantities, specifications and commercial terms.",
+    "intro": "An order acknowledgement can reveal that a supplier accepted different details from those the buyer intended. Review it before relying on the delivery plan. This task is separate from checking the final invoice: it concerns what the supplier says it will provide. The guide does not determine when a contract forms or interpret legal remedies; use the actual documents and appropriate advice for those questions.",
+    "sections": [
+      {
+        "title": "Identify the approved purchasing record",
+        "text": "Locate the owner’s approved order, item specifications and relevant quotation. Keep their versions and dates visible. A shopping list or an unapproved draft may not describe the actual instruction sent to the supplier. Identify who had authority to place the order and which record the acknowledgement is intended to confirm."
+      },
+      {
+        "title": "Compare item and quantity details",
+        "text": "Check product identifiers, options, sizes, quantities and units. A case, pair and individual unit are not interchangeable. Ask the supplier to explain abbreviated descriptions that cannot be reliably matched. Do not accept a similar product name as proof of equivalence, particularly when fit or compatibility affects another part of the project."
+      },
+      {
+        "title": "Review delivery and price assumptions",
+        "text": "Compare addresses, delivery method, timing, freight, taxes or other stated charges. Mark estimates and conditional dates clearly. A supplier may acknowledge an order while leaving delivery unconfirmed. Record what still needs resolution before the owner treats the acknowledgement as a complete operational plan."
+      },
+      {
+        "title": "Resolve a specific discrepancy",
+        "text": "For a fictional order requesting six units in one finish, an acknowledgement showing five in another finish needs clarification even if the total price looks close. Preserve the discrepancy and request a corrected record. Do not quietly change the owner’s purchasing record to match the supplier unless an authorized person has approved the change."
+      },
+      {
+        "title": "Keep the accepted version with later records",
+        "text": "File the resolved acknowledgement with the order, dispatch notices and receiving record. Tell the people planning installation which timing and specifications were confirmed. If the supplier sends a further revision, repeat the relevant checks. A short review at this stage can make later invoice or delivery questions easier to investigate without assuming that every difference was an error."
+      },
+      {
+        "title": "Check package units before approving",
+        "text": "A fictional order for four cases of twelve items represents forty-eight items, while four individual items does not. Keep both the package unit and total quantity visible in the acknowledgement. Similar totals or product descriptions can hide the difference. If the supplier uses a different unit, ask for an explicit conversion and corrected record where needed. The goal is to resolve the meaning before dispatch, not to make two numbers appear equal."
+      }
+    ],
+    "checklist": [
+      "Approved order and specification versions",
+      "Matched identifiers, quantities and units",
+      "Delivery and charge assumptions",
+      "Resolved discrepancies and approvals",
+      "Final acknowledgement linked to receipt records"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "supplier-return-authorization-tracker",
+    "title": "Track a supplier return through refund or credit",
+    "description": "Connect return approval, shipment evidence and the final financial adjustment without treating authorization as settlement.",
+    "intro": "A supplier agreeing to consider a return is not the same as receiving the item or issuing a refund. Owners should track each stage and keep the actual terms visible. This guide helps coordinate the record. It does not determine whether an item must be accepted, who bears a loss or which return rights apply to the purchase.",
+    "sections": [
+      {
+        "title": "Record the original purchase and reason",
+        "text": "Identify the order, item, quantity, delivery date and reason for the request. Separate damage, incorrect supply, a changed owner preference and other situations rather than grouping every return under one label. Keep photographs or inspection notes where appropriate. Avoid attributing a cause that the available evidence does not establish."
+      },
+      {
+        "title": "Obtain and preserve the supplier instructions",
+        "text": "Record the authorization reference, accepted items, address, deadlines and packing requirements supplied by the vendor. Ask who arranges transport and what charges may apply. Do not assume that an approval covers every item in a mixed shipment. Have uncertain commercial or legal terms reviewed before treating the requested outcome as guaranteed."
+      },
+      {
+        "title": "Connect the physical return to the record",
+        "text": "Keep dispatch evidence, carrier reference and delivery confirmation with the authorization. For a fictional return of two items from a six-item order, preserve the quantity distinction so the remaining stock is not accidentally marked returned. Identify who checks the supplier’s receipt and follows up if the delivered quantity is disputed."
+      },
+      {
+        "title": "Track the expected financial outcome",
+        "text": "Distinguish a proposed refund, store credit, replacement and other adjustment. Record amounts as estimates until supported by the issued document and settlement. A credit mentioned in a message may not yet be applied to the account. Ask the authorized finance contact how it should be linked to the original purchase and any later transaction."
+      },
+      {
+        "title": "Close only the resolved stages",
+        "text": "Mark transport, acceptance and settlement separately. Keep partial refunds, deductions and replacement deliveries visible. The final file should explain what happened to the item and the money without requiring someone to reconstruct several inboxes. Review repeated return causes with the purchasing process, while keeping conclusions limited to what the records actually support."
+      },
+      {
+        "title": "Resolve partial acceptance line by line",
+        "text": "A supplier may accept one returned item and question another. Track the accepted quantity, reason for any rejection and the corresponding financial document separately. Do not close the full authorization when only part is settled. Ask the responsible reviewer to address the remaining dispute using the actual terms and evidence. A clear partial status prevents a missing credit from disappearing inside an account total that happens to include other unrelated transactions."
+      }
+    ],
+    "checklist": [
+      "Original purchase and documented return reason",
+      "Authorization and supplier instructions",
+      "Quantity and shipment evidence",
+      "Refund, credit or replacement status",
+      "Stage-by-stage closure and reconciliation"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "vendor-deposit-milestone-comparison",
+    "title": "Compare vendor deposits and milestone payments",
+    "description": "Map proposed payment timing to defined work, evidence and owner approvals before choosing a vendor.",
+    "intro": "Two proposals with similar totals can create different cash commitments and decision points. A deposit-and-milestone comparison makes those differences visible. It should use the terms each provider actually offers, not assumptions about a customary percentage. This guide does not determine whether a payment term is legally appropriate, authorize a transfer or assess the financial reliability of a provider.",
+    "sections": [
+      {
+        "title": "List the stated payment events",
+        "text": "Record deposits, progress payments, final balances and the conditions associated with each. Identify whether a date, delivery, approval or other event triggers payment. Keep uncertain wording as a question for the appropriate reviewer. A label such as halfway does not explain what evidence establishes that stage."
+      },
+      {
+        "title": "Connect events to deliverables",
+        "text": "Match each milestone to the described work and the records expected. Ask how variations, partial deliveries and outstanding items affect the process. Do not invent an acceptance standard on the provider’s behalf. The owner and qualified advisers should understand the actual proposed arrangement before comparing it with another vendor’s terms."
+      },
+      {
+        "title": "Build a neutral cash illustration",
+        "text": "For a fictional $4,000 project, a proposed $1,000 deposit followed by $3,000 at a stated stage creates a different timing profile from four specified $1,000 payments. The arithmetic does not show which is safer or better. Map the conditions and dates for each option, and distinguish known commitments from estimates."
+      },
+      {
+        "title": "Review changes and cancellation questions",
+        "text": "Ask what happens when scope, timing or the project itself changes. Identify who may approve a revised milestone and what document records it. Have unclear refund, cancellation or dispute terms reviewed by an appropriate adviser. Do not treat a verbal explanation as a complete substitute for the written payment terms."
+      },
+      {
+        "title": "Keep authorization and settlement separate",
+        "text": "Connect any approved payment to the correct proposal version, invoice and internal authorization. Verify payment instructions through the business’s established controls. The comparison is a planning record, not permission to send money. After settlement, retain confirmation and reconcile the remaining commitment so a revised schedule does not accidentally double-count an amount already paid."
+      },
+      {
+        "title": "Keep the remaining commitment visible",
+        "text": "After a fictional $1,000 deposit on a $4,000 project, the remaining stated project amount is $3,000 before approved changes or other applicable items. Record that balance separately from the timing of later payments. A deposit does not show how much work is complete, and a progress report does not show what has been paid. Keeping those dimensions separate helps the owner review both the operating plan and the financial records. Record the next review date."
+      }
+    ],
+    "checklist": [
+      "Proposed payment events and conditions",
+      "Milestone deliverables and evidence",
+      "Neutral timing illustration",
+      "Written scope-change and cancellation questions",
+      "Separate authorization and settlement records"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-print-proof-approval",
+    "title": "Approve printed rental materials from a controlled proof",
+    "description": "Check content, dimensions, quantity and version before approving a print supplier’s production proof.",
+    "intro": "Printed house materials can be difficult to correct once a run is produced. A proof review should confirm both the content and the item being ordered. This guide concerns purchasing and version control, not the legal adequacy of a notice or the technical requirements for safety signage. Have qualified people review any content that carries those responsibilities.",
+    "sections": [
+      {
+        "title": "Identify the intended material and use",
+        "text": "Record whether the item is a house guide, welcome card, label or another document. List the size, stock, quantity and location where it will be used. A design that works on a screen may be hard to read at the intended printed size. Ask the supplier what the proof represents and what it cannot demonstrate."
+      },
+      {
+        "title": "Freeze the approved content version",
+        "text": "Keep the text, images and other assets under a clear version reference. Name the person who checks property facts and the person who approves design. Do not allow a layout correction to silently change an instruction, policy or contact detail. Rights and permissions for supplied material should be resolved through the appropriate process before production."
+      },
+      {
+        "title": "Review practical details systematically",
+        "text": "Check names, phone numbers, links, room references, spelling and page order. Confirm that any code or address points to the intended destination using the business’s normal review process. If a statement concerns safety, legal duties or specialized use, obtain the right review rather than assuming a printer’s proof check validates the content."
+      },
+      {
+        "title": "Use a specific discrepancy example",
+        "text": "For a fictional card ordered in fifty copies, a proof showing an old service contact needs correction even if colors and dimensions look correct. Record the changed field and request a revised proof. Do not approve the whole run based on a message that one correction was made; compare the final complete version and retain it with the approval."
+      },
+      {
+        "title": "Connect approval to production and receipt",
+        "text": "Specify who can release the job and how extra changes affect cost and timing. Match the delivered material to the approved version and quantity. Keep the proof and supplier acknowledgement available for any follow-up. When property information changes, retire outdated stock deliberately rather than allowing multiple conflicting versions to remain in use."
+      },
+      {
+        "title": "Check linked content at the same time",
+        "text": "A printed code or shortened link may point to content that changes independently of the proof. Have the authorized reviewer test the intended destination and record it with the approved version. Do not assume the link stays correct merely because the printed characters match the artwork. If the destination contains operational or specialist instructions, assign ownership for maintaining those instructions after the print run is delivered."
+      }
+    ],
+    "checklist": [
+      "Item use, dimensions and quantity",
+      "Controlled content and asset version",
+      "Property and specialist-content review",
+      "Final complete proof approval",
+      "Production, receipt and old-stock control"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-house-manual-change-control",
+    "title": "Control changes to the rental house manual",
+    "description": "Assign factual ownership, review and version distribution for operating information shared at the property.",
+    "intro": "A house manual can become inconsistent when several people update different copies. Owners need a way to confirm facts, approve changes and remove obsolete versions. This guide concerns document management and provider coordination. It does not prescribe safety instructions, determine platform rules or authorize a change to guest policies.",
+    "sections": [
+      {
+        "title": "Identify the authoritative version",
+        "text": "List the digital and printed copies currently used and who controls each. Choose a clear reference for the approved manual. A file in a designer’s account should not become the only record the owner can access. Preserve source material and approvals in the business’s controlled system rather than relying on a chain of forwarded attachments."
+      },
+      {
+        "title": "Assign ownership of facts",
+        "text": "Name the person responsible for verifying each class of information, such as equipment instructions, service contacts or property policies. Refer technical content to qualified providers and applicable manufacturer documentation. A copy editor can improve wording without being qualified to validate the underlying instruction. Keep those roles distinct in the review process."
+      },
+      {
+        "title": "Record the reason for a revision",
+        "text": "Link the requested change to the event or evidence that supports it. A new appliance, updated contact or clarified policy needs a different review from a typographical correction. For a fictional equipment replacement, identify every manual section affected rather than changing only the product name. Preserve unresolved questions outside the approved text."
+      },
+      {
+        "title": "Approve the whole revised document",
+        "text": "Check consistency across headings, links, illustrations and references. A change in one section may leave another section inaccurate. Record the approver, date and version. Do not publish a partial draft simply because the immediate correction seems small. Where specialized instructions are involved, retain the appropriate review evidence with the document."
+      },
+      {
+        "title": "Distribute and retire versions",
+        "text": "List the places that need the new manual and confirm each update. Remove or clearly retire outdated printed copies through the property’s process. Keep an archive that explains prior instructions without exposing obsolete material to current users. A completed revision should leave one understandable operating version, not several copies whose status depends on remembering who last edited them."
+      },
+      {
+        "title": "Plan for offline copies",
+        "text": "A revised online manual may leave printed binders and downloaded files unchanged. List where those copies are used and who replaces or retires them. The review should account for normal situations where staff cannot reach the latest online version. Do not solve that problem by distributing unrestricted access details. Keep the information appropriate to the recipient’s role and use a version label that allows an outdated copy to be recognized quickly."
+      }
+    ],
+    "checklist": [
+      "Authoritative manual and controlled access",
+      "Factual and specialist review owners",
+      "Revision reason and affected sections",
+      "Complete-version approval",
+      "Distribution and retirement checklist"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-consumable-date-rotation",
+    "title": "Review consumable dates and stock rotation",
+    "description": "Keep dated stock visible without confusing a printed date with a complete product-suitability decision.",
+    "intro": "Stored consumables can accumulate across purchases and property changes. A rotation record helps staff identify what is present, which dates are printed and what needs review. It does not decide whether a product is safe, effective or legally usable after a particular date. Follow applicable product information and qualified guidance for the actual item.",
+    "sections": [
+      {
+        "title": "Define the stock categories",
+        "text": "Identify products for which printed dates, storage conditions or lot references matter to the business. Keep food, cleaning products and other categories distinct. Do not apply one informal rule to everything in the cupboard. Record the product and package information that the responsible reviewer needs without copying unnecessary detail into every turnover task."
+      },
+      {
+        "title": "Record what the label actually says",
+        "text": "Transcribe the date and its label accurately rather than renaming every date expiration. Keep lot or batch information where relevant. If the label is unreadable, flag it for review instead of guessing. The record should preserve the manufacturer’s wording while the appropriate person determines what it means for the product’s intended use."
+      },
+      {
+        "title": "Arrange stock for a usable review",
+        "text": "Separate opened, unopened, damaged and uncertain items as appropriate to the established process. Make older dated stock visible to the person reviewing it. For a fictional cupboard with three deliveries, record the batches rather than assuming every package came from the latest order. Physical organization should support the record, not replace it."
+      },
+      {
+        "title": "Assign disposition decisions",
+        "text": "Identify who may approve continued use, return or disposal based on the relevant product information and requirements. Do not ask an unqualified coordinator to infer safety from appearance alone. Keep uncertain items out of the available count until the appropriate decision is documented. Connect any return or disposal to the inventory adjustment so the same stock is not counted twice."
+      },
+      {
+        "title": "Use findings to improve purchasing",
+        "text": "Review repeated excess, shortfalls and unreadable labels. Adjust order quantities or delivery patterns based on evidence rather than buying a large buffer of every item. Record changes to the stocking process and revisit them after a reasonable period. A rotation review is valuable when it improves visibility and decisions, not when it merely produces a list of dates nobody follows up."
+      },
+      {
+        "title": "Distinguish a missing label from a zero date",
+        "text": "A blank field may mean the date was not recorded, not that a product has no relevant limit. Use an explicit unresolved status and assign someone to check the packaging or reliable product information. Avoid inventing a default date merely to complete the spreadsheet. The record is useful when it preserves what is actually known and leads to a responsible decision about the item’s status."
+      }
+    ],
+    "checklist": [
+      "Product-specific categories and label wording",
+      "Dated batch and condition records",
+      "Physical stock organization",
+      "Named disposition reviewer",
+      "Purchasing adjustments based on findings"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "laundry-quality-rework-record",
+    "title": "Record laundry quality issues and rework",
+    "description": "Connect a returned laundry batch to observations, supplier response and the final count without assuming fault.",
+    "intro": "A laundry issue should be recorded in a way that lets the supplier identify the batch and respond. General statements about poor quality may be hard to investigate and can confuse appearance, condition and missing quantities. This guide organizes quality communication and rework records. It does not prescribe laundering methods, hygiene criteria or responsibility for damage.",
+    "sections": [
+      {
+        "title": "Identify the batch and service",
+        "text": "Record the dispatch and receipt references, item categories, quantities and service date. Keep the applicable agreement available. A complaint about a mixed pile without a batch reference may be impossible to connect to the original collection. Distinguish items supplied by the owner from stock rented or otherwise provided under a different arrangement."
+      },
+      {
+        "title": "Describe observations precisely",
+        "text": "Record what was observed and which items are affected. Use photographs when appropriate, without treating them as proof of every condition. Separate visible damage, a missing item, an odor report and other concerns. Avoid deciding from appearance alone whether a product or process caused the issue; seek qualified review where the question requires it."
+      },
+      {
+        "title": "Keep disputed stock out of the ready count",
+        "text": "Identify the location and status of items awaiting review, following the business’s approved process. Do not count them as ready while also recording a shortage that triggers a replacement order. For a fictional batch with four items held for review, show those four separately from the accepted quantity so both the owner and supplier understand the immediate operating position."
+      },
+      {
+        "title": "Track the agreed response",
+        "text": "Record whether the supplier proposes inspection, rework, replacement or a financial adjustment. Identify collection dates, expected return and conditions still under discussion. A promise to examine the batch is not the same as accepting responsibility. Keep the response connected to the original issue rather than opening an unrelated stock adjustment."
+      },
+      {
+        "title": "Close with counts and evidence",
+        "text": "Reconcile the items returned from rework with the original held quantity and record any replacement or credit. Preserve unresolved differences and their owner. Review repeated issues to decide whether the service specification, handling or communication needs improvement. Do not convert one event into an unsupported claim about the supplier’s overall quality."
+      },
+      {
+        "title": "Keep the original tag or reference",
+        "text": "Where the service uses garment tags, bag numbers or another batch reference, retain that connection through rework. Removing the only identifier can make a later quantity discussion harder. Use the supplier’s agreed process for disputed items rather than creating competing labels that nobody else recognizes. At the end, reconcile the physical items and any credit documents to the same reference before considering the issue resolved."
+      }
+    ],
+    "checklist": [
+      "Batch and agreement references",
+      "Specific observations and affected quantities",
+      "Held-versus-ready stock status",
+      "Supplier response and rework dates",
+      "Final count, credit or unresolved issue"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-floor-care-quote-review",
+    "title": "Compare rental floor-care proposals by surface and result",
+    "description": "Specify surfaces, condition, access and expected outcomes when requesting periodic floor-care work.",
+    "intro": "Periodic floor care is different from routine turnover cleaning. A proposal may include restoration, treatment or repair assumptions that need professional assessment. Owners should define the surfaces and desired result so providers can explain their actual scope. This guide does not select chemicals, equipment or a method for a particular floor.",
+    "sections": [
+      {
+        "title": "Map surfaces and current condition",
+        "text": "List rooms, approximate areas and known material information. Keep product or installation documents where available. Record visible condition without guessing its cause. A property may contain several materials that look similar but need different assessment. Ask qualified providers to confirm uncertain areas before relying on a single price per square foot."
+      },
+      {
+        "title": "Distinguish the proposed work",
+        "text": "Ask whether the quote covers cleaning, maintenance, restoration or repairs. Record exclusions and limitations, especially where damage may remain after treatment. A promise of a fresh appearance is not a measurable specification. Give each bidder the same information and ask for a clear description of the result it considers realistic."
+      },
+      {
+        "title": "Coordinate access and interruption",
+        "text": "Identify furniture movement, occupied spaces, access hours and other constraints. Ask the provider when the area may be used again and who communicates the agreed restrictions. Do not infer drying or return-to-use times from a generic article. Have qualified staff address product compatibility, safety and the actual site conditions."
+      },
+      {
+        "title": "Use a representative test where appropriate",
+        "text": "For a fictional property with several flooring types, discuss whether a small agreed test area can clarify the proposed result. Record its location, treatment and limitations. A favorable result on one section does not guarantee an identical result on damaged or differently maintained surfaces. Use the test to inform the scope, not to eliminate the need for it."
+      },
+      {
+        "title": "Compare complete cost and handoff",
+        "text": "Separate preparation, furniture movement, treatment, materials and return visits. Ask for any care instructions relevant to the completed work and provide them to the routine cleaning team. Keep unresolved areas and recommended follow-up visible. Review later proposals against the same surface map so changes in price can be understood alongside changes in scope."
+      },
+      {
+        "title": "Record the test conditions",
+        "text": "If a floor-care test is performed, note the exact area, initial condition and proposed method as described by the provider. Keep the owner’s acceptance limited to what was reviewed. A result on one surface should not silently authorize a different treatment elsewhere. Ask the provider to explain which conditions could lead to a different outcome, and carry those limitations into the final scope and completion discussion."
+      }
+    ],
+    "checklist": [
+      "Surface map and material information",
+      "Clearly described work and limitations",
+      "Access and use-after-service plan",
+      "Agreed test-area record",
+      "Full cost and routine-care handoff"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "gutter-service-scope-record",
+    "title": "Prepare a gutter-service scope and report request",
+    "description": "Define the areas, access constraints and evidence required when arranging a qualified gutter-service visit.",
+    "intro": "A gutter-service request should identify the property features and the work being requested without directing an unsafe access method. Owners also need a report that distinguishes completed work from damage or conditions requiring another decision. This guide is a purchasing and recordkeeping aid, not instruction for working at height or diagnosing drainage problems.",
+    "sections": [
+      {
+        "title": "Describe the property and known system",
+        "text": "Provide the address, building areas and available information about gutters, downspouts or related components. Note observations such as overflow with their date and location. Do not assume a cause from one photograph. Ask the provider what it needs to inspect and which parts of the property are outside the quoted scope."
+      },
+      {
+        "title": "Let qualified providers assess access",
+        "text": "Disclose relevant access restrictions, adjoining-property boundaries and known obstacles. Ask the provider to explain the proposed coordination and qualifications for the work. Do not instruct it to use a shortcut or assume permission to enter another property. Appropriate professionals should determine safe methods and applicable requirements for the actual site."
+      },
+      {
+        "title": "Separate cleaning and repair proposals",
+        "text": "Clarify whether the visit is intended for routine service, assessment or a defined repair. Record how additional findings will be quoted and who can approve work. For a fictional service discovering a damaged component, the report should distinguish the completed cleaning from the proposed repair rather than treating both as included in one vague completion statement."
+      },
+      {
+        "title": "Specify useful reporting",
+        "text": "Ask for area references, work performed, inaccessible sections and observations requiring follow-up. Photographs may support that report but do not independently certify the system’s condition. Identify who reviews the recommendations and coordinates another trade if needed. A report should make the next decision easier without implying that every related building issue was assessed."
+      },
+      {
+        "title": "Retain the seasonal history",
+        "text": "Keep service dates, invoices, repairs and unresolved areas in the property record. Review patterns with a qualified provider instead of inventing a universal visit frequency. Changes in the property or surrounding conditions may affect the plan. Compare renewal proposals using the same system description and documented work rather than only the last invoice amount."
+      },
+      {
+        "title": "Preserve inaccessible-area notes",
+        "text": "An area that could not be reached during the visit is not the same as an area inspected and found satisfactory. Ask the provider to mark the distinction and identify any next step. Keep that limitation in the property history rather than removing it when the invoice is paid. A later service should be able to see why the earlier record did not cover the full system."
+      }
+    ],
+    "checklist": [
+      "System description and observations",
+      "Access restrictions and qualification questions",
+      "Cleaning versus repair scope",
+      "Area-specific service report",
+      "History and follow-up owner"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "tree-work-proposal-owner-review",
+    "title": "Review a tree-work proposal without prescribing the method",
+    "description": "Organize tree identification, desired outcome, qualifications, site constraints and documented scope for expert review.",
+    "intro": "Tree work can involve risks and property boundaries that an owner should not resolve through a generic checklist. A proposal review helps identify the exact trees, intended outcome and questions for qualified professionals. It does not assess tree health or select a safe method. Verify the person and credentials relevant to the assignment rather than assuming a company description proves individual qualifications.",
+    "sections": [
+      {
+        "title": "Identify trees and the concern",
+        "text": "Use a site reference and appropriate photographs to show which tree or area is involved. Record observations and the owner’s desired outcome without diagnosing the condition. Similar nearby trees can create confusion, so ask the provider to confirm the scope on site. Keep boundaries and ownership questions separate until the appropriate parties resolve them."
+      },
+      {
+        "title": "Check relevant professional information",
+        "text": "Ask who will assess the tree and who will perform the proposed work. ISA’s directory offers a way to locate or verify its credential holders; the listing is not a project-specific endorsement or proof of every required qualification. Confirm current credentials and coverage applicable to the assignment through the relevant sources."
+      },
+      {
+        "title": "Understand the proposed scope",
+        "text": "Request a written description of the recommended work, limitations and expected outcome. Ask the qualified provider to explain alternatives and uncertainties in understandable terms. Do not specify a technique merely because it appears in an online article. A lower quote may cover different work or omit related cleanup, access or follow-up."
+      },
+      {
+        "title": "Review site and coordination constraints",
+        "text": "For a fictional tree near a shared boundary, identify who must resolve permission before work is authorized. Record nearby structures, access issues and other constraints for professional assessment. Clarify who arranges any necessary approvals or coordination. The owner’s purchasing process should not treat an unresolved boundary or utility question as a minor scheduling detail."
+      },
+      {
+        "title": "Confirm closeout and remaining work",
+        "text": "Separate the tree work, debris removal, stump-related work and any later service where applicable. Ask what report or completion record will be provided. Retain recommendations and unresolved questions with the property record. Have qualified advisers review technical, safety and contractual concerns rather than using the presence of a signed quote as evidence that all were addressed."
+      },
+      {
+        "title": "Clarify disposal and site restoration",
+        "text": "Ask whether the tree-work proposal includes removal of material, processing left on site and restoration of affected areas. Do not assume the same practice across bidders. Record the agreed outcome in practical terms so the completion review can distinguish it from extra work. These are scope questions, not directions about how a qualified crew should operate or a conclusion about permissions that have not been confirmed."
+      }
+    ],
+    "checklist": [
+      "Clearly identified tree and owner concern",
+      "Named assessor and credential verification",
+      "Written proposed work and limitations",
+      "Resolved site and permission questions",
+      "Cleanup and closeout responsibilities"
+    ],
+    "source": "https://www.treesaregood.org/Find-an-Arborist",
+    "sourceLabel": "ISA information on finding and verifying credentialed arborists",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "septic-service-visit-record",
+    "title": "Prepare and retain a septic-service visit record",
+    "description": "Collect system information, service scope and provider findings without replacing professional or local requirements.",
+    "intro": "Septic service depends on the actual system, its use and applicable requirements. An owner’s record should help a qualified provider understand the system and should preserve what the visit establishes. EPA recommends keeping maintenance records and describes factors affecting service needs. This guide does not set a service interval, diagnose a failure or give instructions for opening or working on a system.",
+    "sections": [
+      {
+        "title": "Gather known system information",
+        "text": "Collect available plans, permits, equipment details and prior service records. Identify who controls the system if responsibility is shared. Mark missing information rather than assuming a standard layout. An address and bedroom count may not describe the installed system or how it has been used, so ask the qualified provider what additional facts are needed."
+      },
+      {
+        "title": "Describe observations accurately",
+        "text": "Record when and where a concern was noticed without deciding its technical cause. Follow the property’s established response process and qualified advice. Avoid experimenting with the system to produce more evidence. The purpose of the record is to support professional assessment, not to turn an owner or coordinator into a technician."
+      },
+      {
+        "title": "Clarify the visit being purchased",
+        "text": "Ask whether the proposed work is inspection, routine service, diagnosis or a specific repair. Identify what the price includes and what may require additional authorization. EPA’s general maintenance information is background; the relevant provider and authority should address requirements for the actual property. Do not substitute a generic interval for that review."
+      },
+      {
+        "title": "Request an understandable service report",
+        "text": "For a fictional visit identifying a further assessment need, distinguish work completed from the recommendation and its urgency as explained by the provider. Record relevant measurements or findings in the form supplied, rather than reinterpreting them. Ask who can explain uncertainties and what evidence the owner should retain for the next professional visit."
+      },
+      {
+        "title": "Update the property’s maintenance file",
+        "text": "Keep the date, provider, service description, invoice and unresolved actions together. Record the source of any future-service recommendation. If equipment or use changes, arrange the appropriate review rather than copying the old plan automatically. The file should support continuity between qualified providers without making unsupported claims that a service receipt certifies the entire system."
+      },
+      {
+        "title": "Request historical records through the right route",
+        "text": "A new owner may receive incomplete service history. Ask the appropriate previous provider, owner representative or relevant record source for documents the business is authorized to obtain. Mark the difference between a missing record and evidence that no service occurred. Give the qualified provider the information available and let it explain what further assessment is needed rather than reconstructing a technical history from assumptions."
+      }
+    ],
+    "checklist": [
+      "Plans, permits and prior records",
+      "Dated observations without diagnosis",
+      "Defined professional visit scope",
+      "Service findings and unanswered questions",
+      "Maintenance history and follow-up responsibility"
+    ],
+    "source": "https://www.epa.gov/septic/how-care-your-septic-system",
+    "sourceLabel": "EPA septic-system care and maintenance background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "chimney-service-proposal-record",
+    "title": "Prepare a chimney or fireplace service proposal record",
+    "description": "Define the appliance, requested assessment, documentation and follow-up for a qualified chimney-service provider.",
+    "intro": "A fireplace or chimney service request should identify the equipment and the question to be assessed. A visual appearance or past use does not establish current condition. This guide helps an owner organize a proposal and service record; it does not provide operating instructions, diagnose hazards or determine whether equipment is safe to use. Seek qualified guidance and applicable local requirements for those decisions.",
+    "sections": [
+      {
+        "title": "Identify the equipment and history",
+        "text": "Record the fireplace or appliance type, available model information and prior service documents. Note changes to the property or equipment that may matter. Do not guess a fuel type or system configuration from appearance alone. Ask the provider to identify the information it needs before quoting a complete service or assessment."
+      },
+      {
+        "title": "Describe the requested assessment",
+        "text": "Explain the owner’s concern and separate routine service from diagnosis, inspection or repair. Ask the qualified provider to state what its visit will and will not cover. A broad label such as chimney service is not a complete scope. Preserve limitations and any recommendation for additional professional work rather than assuming the first visit answers every question."
+      },
+      {
+        "title": "Confirm qualifications and coordination",
+        "text": "Ask who performs the work, what relevant qualifications apply and how they can be verified. Identify access constraints and other equipment or services requiring coordination. CPSC provides general carbon-monoxide safety information, but that does not assess a particular installation. Have qualified professionals address the property’s technical and safety questions rather than relying on a purchasing guide."
+      },
+      {
+        "title": "Separate findings from proposed repairs",
+        "text": "For a fictional service visit recommending a component replacement, record the finding, proposed scope and approval process separately. An observation is not evidence that the repair has been performed. Ask how the provider will document completed work and remaining limitations. Keep any operating decision tied to appropriate professional advice and the actual conditions."
+      },
+      {
+        "title": "Retain the final handoff",
+        "text": "Collect service records, invoices, relevant instructions and follow-up recommendations. Update the maintenance calendar with the source of the recommendation rather than inventing an interval. Ensure the appropriate owner representative can access the documents. A complete file supports later qualified review; it should not be presented as a universal certificate of safety or a guarantee of future operation."
+      },
+      {
+        "title": "Keep the report’s defined scope",
+        "text": "A service report may address only the components the provider actually assessed. Preserve that boundary when filing or sharing it. Do not summarize a limited inspection as a statement that the entire installation is safe. If another owner representative needs a broader answer, refer the question to the qualified provider with the original document. Accurate scope labels help prevent a useful report from becoming a misleading assurance."
+      }
+    ],
+    "checklist": [
+      "Equipment identification and service history",
+      "Defined assessment and exclusions",
+      "Qualifications and coordination questions",
+      "Separate findings and approved repairs",
+      "Service records and sourced follow-up plan"
+    ],
+    "source": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center",
+    "sourceLabel": "CPSC carbon-monoxide safety background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
   }
 ]
