@@ -1,7 +1,7 @@
 {
-  "vendor_count": 2459,
+  "vendor_count": 2467,
   "categories": {
-    "Cleaning & turnovers": 242,
+    "Cleaning & turnovers": 250,
     "Plumbing": 279,
     "Electrical": 236,
     "HVAC": 245,
@@ -478,6 +478,54 @@
     {
       "name": "Glass Doctor of Northwest Albuquerque",
       "reason": "duplicate official location"
+    },
+    {
+      "name": "Ultra Clean Solutions",
+      "reason": "Excluded from this batch because the official source URL failed TLS hostname validation and no working official canonical was verified",
+      "source": "https://ucleansolutions.com/",
+      "checked": "2026-11-20"
+    }
+  ],
+  "independent_profile_sources": [
+    {
+      "name": "Stay Ready Solutions",
+      "url": "https://www.stayreadypgh.com/",
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "KMJR Service",
+      "url": "https://kmjrcleaning.com/",
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "The Cleaning Mermaids, LLC",
+      "url": "https://thecleaningmermaids.com/contact-us/",
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "White Sands Resort Services",
+      "url": "https://whitesandsresortservices.com/",
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Redhead Scrub Club LLC dba Classy Maids",
+      "url": "https://www.classymaidsllc.com/contact",
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "B Clean",
+      "url": "https://www.bclean-services.com/",
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Mountaineer Cleaning & Maintenance",
+      "url": "https://www.mcmsmokiesrentalcleaning.com/contact-us",
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Blessed Cleaning and More LLC",
+      "url": "https://www.blessedcleaningllc.com/contact/",
+      "checked": "2026-11-20"
     }
   ]
 }
