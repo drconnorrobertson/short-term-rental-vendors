@@ -59107,7 +59107,7 @@
     "evidence": "Official provider service and contact information",
     "listing_type": "Official provider service listing",
     "official_profile": true,
-    "location_kind": "service_area",
+    "location_kind": "contact",
     "location_display": "Roswell, GA; published contact address: 4401 Shallowford Road, Suite 166 #1022, Roswell, GA 30075; confirm meeting arrangements directly",
     "address_display": "Roswell, GA; published contact address: 4401 Shallowford Road, Suite 166 #1022, Roswell, GA 30075; confirm meeting arrangements directly",
     "published_claims": [
@@ -59142,7 +59142,7 @@
     "evidence": "Official provider service and contact information",
     "listing_type": "Official provider service listing",
     "official_profile": true,
-    "location_kind": "service_area",
+    "location_kind": "contact",
     "location_display": "Overland Park, KS; agency business address published in the privacy policy: 10950 Grandview Drive, Suite 200, Overland Park, KS 66210; confirm appointment arrangements",
     "address_display": "Overland Park, KS; agency business address published in the privacy policy: 10950 Grandview Drive, Suite 200, Overland Park, KS 66210; confirm appointment arrangements",
     "published_claims": [
@@ -59216,7 +59216,7 @@
     "evidence": "Official provider service and contact information",
     "listing_type": "Official provider service listing",
     "official_profile": true,
-    "location_kind": "service_area",
+    "location_kind": "contact",
     "location_display": "Cumberland, MD; 44 Baltimore Street, Cumberland, MD 21502 is the published payment-department address, not a verified walk-in sales office",
     "address_display": "Cumberland, MD; 44 Baltimore Street, Cumberland, MD 21502 is the published payment-department address, not a verified walk-in sales office",
     "published_claims": [
@@ -59251,7 +59251,7 @@
     "evidence": "Official provider service and contact information",
     "listing_type": "Official provider service listing",
     "official_profile": true,
-    "location_kind": "service_area",
+    "location_kind": "contact",
     "location_display": "Cincinnati, OH; PO Box 740167, Cincinnati, OH 45274-0167 is a payment mailing address, not a local sales office",
     "address_display": "Cincinnati, OH; PO Box 740167, Cincinnati, OH 45274-0167 is a payment mailing address, not a local sales office",
     "published_claims": [
