@@ -216,8 +216,9 @@ for v in V:
  if v.get('official_profile') and v.get('service_areas'):entity['areaServed']=v['service_areas']
  schema={'@context':'https://schema.org','@type':'ProfilePage','name':v['name']+' vendor profile','url':ORIGIN+'/vendors/'+v['slug']+'/','mainEntity':entity}
  contact='<section class="panel"><h2>Contact '+E(v['name'])+'</h2>'
- if phone:contact+='<p><strong>Phone:</strong> <a href="tel:'+E(phone,quote=True)+'">'+E(v['phone_display'])+'</a></p>'
- if v.get('email'):contact+='<p><strong>Email:</strong> <a href="mailto:'+E(v['email'],quote=True)+'">'+E(v['email'])+'</a></p>'
+ contact_link_style=' style="display:inline-flex;align-items:center;min-height:44px;max-width:100%;overflow-wrap:anywhere"' if v.get('official_profile') else ''
+ if phone:contact+='<p><strong>Phone:</strong> <a'+contact_link_style+' href="tel:'+E(phone,quote=True)+'">'+E(v['phone_display'])+'</a></p>'
+ if v.get('email'):contact+='<p><strong>Email:</strong> <a'+contact_link_style+' href="mailto:'+E(v['email'],quote=True)+'">'+E(v['email'])+'</a></p>'
  if website:contact+='<p><a class="button" href="'+E(website,quote=True)+'" rel="noopener" target="_blank">Visit provider website</a></p>'
  location_label={'service_area':'Published service area','city':'Published city','address':'Published address'}.get(v.get('location_kind'),'Published location') if v.get('official_profile') else 'Published location'
  contact+='<p><strong>'+location_label+':</strong> '+E(v.get('location_display',v.get('address_display',v['city']+', '+st)))+'</p>'
