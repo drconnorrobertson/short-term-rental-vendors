@@ -1,0 +1,1034 @@
+[
+  {
+    "slug": "turnover-cleaning-scope-matrix",
+    "title": "Build a room-by-room turnover-cleaning scope",
+    "description": "Turn a rental turnover request into a room-by-room assignment with exclusions, reset tasks and acceptance records.",
+    "intro": "A cleaner cannot reliably price or repeat a turnover defined only as making the property guest-ready. Each room contains different surfaces, supplies and reset tasks, and the owner may expect work the cleaner does not include. A scope matrix turns those expectations into an assignment that can be quoted, performed and checked. It does not certify cleanliness or prescribe a product for a particular surface.",
+    "sections": [
+      {
+        "title": "Start with the actual room inventory",
+        "text": "List bedrooms, bathrooms, living areas, kitchen, laundry and outdoor spaces included in the service. Record features that affect work, such as multiple beds, a grill or unusually large windows. Mark areas excluded from the visit. Keep property identifiers consistent without including guest names. A count of bedrooms alone can conceal different cleaning and reset workloads across properties."
+      },
+      {
+        "title": "Separate cleaning and reset tasks",
+        "text": "Give each room separate entries for cleaning, linen changes, restocking, furniture reset and reporting. Identify periodic work that is not expected every turnover. A cleaner may report a broken fixture without repairing it, and a restock check may not include purchasing supplies. Write these boundaries explicitly so the quote and the later review use the same assignment."
+      },
+      {
+        "title": "Specify evidence without demanding excess data",
+        "text": "Choose practical completion evidence such as a room checklist and photographs of agreed items. Avoid capturing guest documents, personal belongings or unnecessary access information. Name the person who reviews exceptions and set the reporting channel. A photograph can show an observed condition, but it does not establish that every task was performed or that a technical problem has been resolved."
+      },
+      {
+        "title": "Test one representative turnover",
+        "text": "For a fictional two-bedroom property, compare a standard visit with a visit requiring an approved extra sofa-bed setup. Ask how the extra work is authorized, recorded and billed. Observe where the first scope leaves room for interpretation. Update the matrix by agreement before treating the process as routine, while preserving the initial version so later changes are understandable."
+      },
+      {
+        "title": "Keep the scope aligned with pricing",
+        "text": "Link recurring and additional charges to the relevant tasks. Record what happens when checkout is late, access fails or the property needs work beyond the agreed condition. Have appropriate advisers review uncertain contractual terms. At review time, compare the same room inventory and frequencies rather than selecting the lowest total from proposals that cover different work."
+      },
+      {
+        "title": "Handle property variations explicitly",
+        "text": "If two properties use the same cleaner, keep a common task vocabulary but separate the actual room inventories. A loft, extra bath or outdoor feature should not be hidden in a shared note that staff may miss. Link the property-specific version to each visit. When the owner changes furniture or amenities, review which cleaning and reset tasks change too. This keeps a standard process useful without pretending every address has the same workload or access conditions."
+      }
+    ],
+    "checklist": [
+      "Room inventory and exclusions",
+      "Cleaning, reset and periodic-task columns",
+      "Evidence and exception-review owner",
+      "Approved extra-work process",
+      "Scope-linked recurring and additional fees"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "turnover-inspection-handoff",
+    "title": "Create a turnover inspection handoff without duplicating cleaning",
+    "description": "Define who reviews a completed turnover, what evidence is checked and how unresolved issues reach the next responsible person.",
+    "intro": "A turnover inspection should answer a different question from the cleaner’s task list: whether the agreed handoff is complete and what still needs a decision. Without that distinction, two people may repeat easy checks while a repair or missing supply remains unassigned. Build a concise inspection process around the property’s actual operating needs, and keep technical assessments with qualified providers.",
+    "sections": [
+      {
+        "title": "Name the point of transfer",
+        "text": "Define when the cleaner submits completion and when the reviewer accepts the handoff. Use a property reference and turnover date that both systems recognize. Separate cleaning completion from repairs, linen delivery and other dependencies. The process should show who owns the property’s unresolved work at each stage, rather than relying on a group message that everyone assumes someone else has read."
+      },
+      {
+        "title": "Select checks that support decisions",
+        "text": "Review the agreed high-value items and recurring problem areas. Distinguish a visual observation from a functional test and from a qualified inspection. Do not ask an unqualified reviewer to certify equipment or safety conditions. Link findings to the room and task reference so the cleaner or maintenance provider can understand the issue without reconstructing a vague description."
+      },
+      {
+        "title": "Use clear exception categories",
+        "text": "Separate incomplete agreed work, newly observed damage, missing supplies and questions requiring owner approval. Give each exception an owner and next action. For a fictional visit with a clean kitchen but a leaking appliance, the cleaner’s work may be complete while a maintenance issue remains open. Do not force both questions into one pass-or-fail label."
+      },
+      {
+        "title": "Set a practical response sequence",
+        "text": "Agree on how urgent concerns are communicated and how routine corrections are scheduled. Define who can authorize a return visit or additional charge. Avoid inventing a universal response time; use an arrangement that reflects staffing, access and the next booking. Document a change in priority so the original finding and the reason for escalation remain visible."
+      },
+      {
+        "title": "Close findings with evidence",
+        "text": "Record the correction, relevant provider response and reviewer’s final decision. A check mark alone may not explain whether an item was repaired, deferred or referred elsewhere. Preserve open findings for the next responsible person instead of labeling the whole property complete. Periodically review repeated exceptions to improve the scope, supplies or handoff process rather than simply increasing inspection paperwork."
+      },
+      {
+        "title": "Make the handoff usable across shifts",
+        "text": "An inspection may begin with one coordinator and finish with another. Record the latest evidence, requested action and responsible person before the shift changes. The next reviewer should not need to reread an entire message history to understand the open issue. Avoid copying every message into a new system; use a concise summary linked to the source. Preserve the distinction between a promised correction and a correction supported by a completion record."
+      }
+    ],
+    "checklist": [
+      "Named cleaning-to-review transfer",
+      "Decision-focused inspection checklist",
+      "Distinct exception categories",
+      "Return-visit and charge authority",
+      "Evidence of closure or documented deferral"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "linen-inventory-par-review",
+    "title": "Review rental linen inventory using location and condition",
+    "description": "Build a linen register that distinguishes in-use sets, clean stock, laundry, damaged items and emergency availability.",
+    "intro": "A linen purchase decision is more useful when it starts with where existing stock is and whether it is usable. A total count can hide sets in laundry, mixed sizes or items awaiting replacement. Use a location-and-condition register to support ordering and laundry arrangements. This guide does not prescribe sanitation procedures or a universal number of sets per bed.",
+    "sections": [
+      {
+        "title": "Define the unit being counted",
+        "text": "Record bed size, item type and what constitutes a complete set for the property. Keep towels and other categories separate. A mixed bundle of sheets is not necessarily an available bed setup. Use a consistent naming convention across the owner, cleaner and laundry service so a request for one set means the same thing to each participant."
+      },
+      {
+        "title": "Track the locations and states",
+        "text": "Separate stock in use, clean and ready, awaiting laundering, in transit, under review and removed from service. Identify storage locations and who updates movements. A spreadsheet total should not treat every item as immediately available. The purpose is operational visibility, so use a process staff can follow during a real turnover rather than a complex inventory form nobody completes."
+      },
+      {
+        "title": "Calculate availability for a scenario",
+        "text": "For a fictional property needing four bed sets, suppose four are in use, three are ready and two are at the laundry. The immediately ready stock is three, not nine. If the next reset needs four, the owner must resolve a one-set readiness gap or confirm a timely laundry return. This example is arithmetic, not a recommended stock level."
+      },
+      {
+        "title": "Agree on loss and condition reporting",
+        "text": "Ask how stains, damage, missing pieces and rejected items are recorded. Keep condition decisions separate from assumptions about who caused them. Define who approves replacement or removal from service and what evidence is sufficient. Reconcile laundry dispatch and receipt counts before treating a difference as a permanent loss or charging a provider for it."
+      },
+      {
+        "title": "Connect ordering to lead times",
+        "text": "Review expected turnovers, laundry timing, storage capacity and delivery lead time before purchasing. Identify an approved fallback for a shortfall without assuming a same-day supplier will be available. Compare planned and actual stockouts over time. A practical register helps the owner decide what to buy and when while preserving the reasons behind changes to the stocking plan."
+      },
+      {
+        "title": "Resolve inconsistent laundry units",
+        "text": "A laundry statement may count pieces while the property register counts sets. Keep the conversion explicit and reconcile missing components before reporting a full set as ready. For example, a fitted sheet, flat sheet and pillowcases may be tracked individually even when staff request one bed setup. The exact definition belongs to the property’s own standard. A clear unit map makes disagreements about counts easier to investigate without assuming a supplier or cleaner caused the difference."
+      }
+    ],
+    "checklist": [
+      "Consistent item and set definitions",
+      "Location and usability status",
+      "Next-turnover availability calculation",
+      "Dispatch, receipt and condition records",
+      "Ordering lead times and fallback plan"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-restock-reorder-points",
+    "title": "Set rental restock triggers from usage and lead time",
+    "description": "Use observed consumption, delivery timing and counted stock to create practical replenishment triggers.",
+    "intro": "Restocking by memory can produce duplicate orders of slow-moving supplies and shortages of items used every stay. A simple replenishment model connects usable stock, consumption and delivery time. It should be adjusted to the property’s actual operation. This guide offers a planning method and fictional arithmetic, not a universal allowance per guest or a guarantee that a supplier will deliver on time.",
+    "sections": [
+      {
+        "title": "Choose countable units",
+        "text": "Define the item, package size and storage location. Record whether staff count individual units, refill containers or cases. Mixing these units can make a full-looking stockroom appear well supplied when the usable quantity is low. Separate stock reserved for another property, damaged packages and items not approved for current use from the available count."
+      },
+      {
+        "title": "Observe use over comparable periods",
+        "text": "Record opening stock, additions and closing stock for a defined period. Note occupancy, turnover patterns and exceptional use without retaining unnecessary guest details. A holiday week and a quiet maintenance week may not be comparable. Use several observations and document uncertainty rather than treating one unusually busy stay as a permanent consumption rate."
+      },
+      {
+        "title": "Build a transparent trigger example",
+        "text": "For a fictional supply used at ten units per week with a two-week delivery time, expected use during delivery is twenty units. An owner might separately choose an additional buffer based on its risk tolerance. Label that buffer as a management assumption. Do not describe the combined figure as an industry requirement, and review it when consumption or delivery conditions change."
+      },
+      {
+        "title": "Assign ordering and receipt checks",
+        "text": "Specify who checks stock, who may place orders and who confirms receipt. Keep the order reference and expected arrival visible to the cleaner or manager so they do not place a duplicate order. If a package size changes, update the conversion rather than entering the new shipment as though it contained the old number of units."
+      },
+      {
+        "title": "Review exceptions and storage constraints",
+        "text": "Record shortages, emergency purchases, excess stock and expired or unusable items. Compare the cause with the model: inaccurate counts, changing demand and late delivery need different responses. Consider storage and cash tied up in inventory before raising every trigger. Keep a dated record of approved adjustments so the next reviewer understands why the replenishment plan changed."
+      },
+      {
+        "title": "Treat reserved stock separately",
+        "text": "An unopened case in storage may already be assigned to another property or an upcoming project. Show that reservation before calculating available stock. Likewise, an order placed but not received should appear as expected supply, not inventory on hand. This distinction helps avoid a confident replenishment decision based on goods nobody can currently use. Review cancelled or delayed orders promptly so a stale expected receipt does not keep suppressing the next valid reorder."
+      }
+    ],
+    "checklist": [
+      "Item units and usable-stock definition",
+      "Observed consumption and context",
+      "Lead-time assumption and chosen buffer",
+      "Ordering and receipt responsibility",
+      "Exception log and dated trigger changes"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-supply-substitution-approval",
+    "title": "Approve rental supply substitutions with a clear comparison",
+    "description": "Compare a proposed replacement supply against the approved specification before accepting a recurring change.",
+    "intro": "A supplier substitution can affect quantity, fit, guest instructions and cost even when the label looks similar. Owners should have a quick way to decide whether an alternative is acceptable and who may approve it. This guide concerns operating supplies rather than furnishing specifications. It does not determine product safety, suitability or legal labeling requirements for a particular item.",
+    "sections": [
+      {
+        "title": "Preserve the original specification",
+        "text": "Record the approved product or functional requirement, package quantity and reason it was selected. Note equipment compatibility or instructions that matter to its use. A brand name alone may not describe the actual requirement. Keep the original reference available to the person receiving stock so a later change can be compared with something concrete."
+      },
+      {
+        "title": "Describe the proposed difference",
+        "text": "Ask the supplier to identify the alternative, quantity, price and any relevant differences in use, storage or handling. Separate a temporary availability substitution from a permanent change to the order. Avoid assuming that similar packaging means identical contents or compatibility. Refer technical questions to the appropriate product information or qualified person before accepting the replacement."
+      },
+      {
+        "title": "Compare cost on equivalent units",
+        "text": "For a fictional order, a twelve-unit case at $24 and a ten-unit case at $22 have different unit costs: $2 and $2.20 respectively. The lower case price does not establish better value. Include delivery and any extra work caused by the replacement, while recognizing that cost is only one consideration in deciding whether the substitute meets the approved requirement."
+      },
+      {
+        "title": "Record a bounded approval",
+        "text": "Name the person authorized to accept the change and state whether approval applies to one delivery, one property or future orders. Attach the relevant product reference and date. If approval is conditional on a sample or compatibility check, keep the item pending until that condition is resolved. A message saying looks fine may not identify the intended scope."
+      },
+      {
+        "title": "Update the operating records",
+        "text": "Once accepted, update the supply list, reorder unit and staff instructions as needed. Tell the people who use and count the stock. Keep rejected or returned alternatives separate from usable inventory. Review recurring substitutions with the supplier so temporary shortages do not silently become an undocumented standard that future staff assume was deliberately chosen."
+      },
+      {
+        "title": "Document a rejected alternative too",
+        "text": "A declined substitution can be useful evidence for the next buyer. Record the proposed product, the reason it did not meet the approved requirement and the person who reviewed it. Do not describe the product as universally unsuitable when the decision concerned one property or application. If a later proposal resolves the specific issue, review the new information instead of treating the old rejection as an unexplained permanent rule. Keep the comparison tied to current needs."
+      }
+    ],
+    "checklist": [
+      "Original supply specification",
+      "Differences in quantity, use and price",
+      "Equivalent-unit cost comparison",
+      "Named and bounded approval",
+      "Updated ordering and staff instructions"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-maintenance-triage-register",
+    "title": "Create a rental maintenance triage register",
+    "description": "Separate observations, qualified assessment, authorization and completion so maintenance requests reach the right provider.",
+    "intro": "A maintenance report is an observation that needs a response, not necessarily a diagnosis. Owners and managers need a consistent way to route requests, preserve uncertainty and track work. This register supports that process. It does not give emergency-response instructions, determine whether a property is safe to occupy or replace assessment by a qualified professional.",
+    "sections": [
+      {
+        "title": "Capture a useful initial observation",
+        "text": "Record the property, location, date, visible symptom and relevant equipment identifier. Distinguish what someone observed from what they think caused it. Include photographs only when appropriate and avoid unnecessary personal or access information. A description such as water visible below the sink gives a provider a clearer starting point than a confident but unsupported diagnosis."
+      },
+      {
+        "title": "Use an approved priority process",
+        "text": "Have the owner and appropriate professionals establish how reports are prioritized and escalated. Keep emergency contacts and property procedures outside a generic sales enquiry. The register should show which process was used and who made the decision. Do not let an unqualified coordinator downgrade a concern merely because the preferred provider has no immediate appointment."
+      },
+      {
+        "title": "Separate assessment and authorization",
+        "text": "Record the provider’s findings, proposed work, estimated charge and limitations. Identify who can approve the work and any spending boundary. For a fictional appliance issue, a diagnostic visit and a replacement installation are separate decisions. A provider’s availability does not by itself authorize expanded work, and a spending limit does not resolve technical suitability."
+      },
+      {
+        "title": "Track dependencies and access",
+        "text": "Show whether the job is waiting for approval, parts, an appointment, access or another trade. Give each dependency an owner and next review date. Avoid using a single in progress label for every delay. Confirm how the provider receives access through the approved process and how the property contact knows the visit has ended."
+      },
+      {
+        "title": "Close with the actual outcome",
+        "text": "Record completed work, provider documentation, charges and any remaining limitations or follow-up. Do not mark a report fixed merely because an invoice arrived. Refer appropriate technical questions to the provider and preserve the difference between repair, monitoring and deferral. Review repeated requests to decide whether the maintenance plan, equipment information or initial reporting process needs improvement."
+      },
+      {
+        "title": "Join duplicate reports carefully",
+        "text": "Several people may report the same visible problem. Link related reports to a common work item without deleting the original observations or assuming every similar symptom shares one cause. Record which property, area and time each report concerns. A common reference can reduce repeated dispatches and keep staff informed, while the qualified provider still decides whether the reports describe one technical issue. Close each linked report only when the outcome actually addresses its stated concern."
+      }
+    ],
+    "checklist": [
+      "Dated observation and equipment reference",
+      "Approved priority and escalation process",
+      "Assessment and authorization records",
+      "Dependency owners and access plan",
+      "Completion evidence and follow-up"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-preventive-maintenance-calendar",
+    "title": "Build a rental preventive-maintenance calendar from actual assets",
+    "description": "Connect asset instructions, service records and responsible providers in a calendar that can be reviewed and updated.",
+    "intro": "A preventive-maintenance calendar should reflect the equipment and property actually operated. A generic seasonal checklist can omit an installed asset or recommend work that is irrelevant to the site. Use manufacturer information, qualified advice and applicable requirements to determine tasks, then use a calendar to manage the work. This guide does not prescribe technical service intervals or certify property conditions.",
+    "sections": [
+      {
+        "title": "Build the asset register first",
+        "text": "List relevant systems and equipment with model references, installation information and accessible documentation. Include items maintained by an association, landlord or other party, with their responsibility noted. An asset may appear on the property inventory while its service belongs to someone else. Confirm the boundary rather than scheduling duplicate or unauthorized work."
+      },
+      {
+        "title": "Identify the basis for each task",
+        "text": "Connect each proposed task to manufacturer guidance, professional recommendations or another applicable source. Record who selected the interval and when it should be reconsidered. Do not convert a vendor’s promotional visit schedule into a universal requirement. If the instructions or history are missing, assign a task to obtain them instead of inventing a plausible service date."
+      },
+      {
+        "title": "Distinguish calendar and usage triggers",
+        "text": "Some work may be scheduled by time, while other tasks depend on use or observed condition. A fictional filter register might include the last service date, the selected review interval and an earlier inspection when conditions warrant. The example describes record structure, not a recommended interval. Make the trigger understandable to the person responsible for booking the visit."
+      },
+      {
+        "title": "Plan access, parts and evidence",
+        "text": "Record the provider, access contact, likely lead time and documentation expected after service. Avoid scheduling every task immediately before guest arrival. Identify work that requires parts or coordination with another provider. Keep completion evidence linked to the asset so a future manager can distinguish a booked appointment from a task actually performed."
+      },
+      {
+        "title": "Review the calendar as the property changes",
+        "text": "Update the plan after replacement equipment, changed use or a professional recommendation. Preserve older service records and explain why a task was added or retired. Track missed visits and repeated repairs to inform the next review. A calendar is useful when it supports decisions and accountability, rather than simply displaying a series of green completion boxes."
+      },
+      {
+        "title": "Distinguish postponed and completed tasks",
+        "text": "When a visit is cancelled or a provider cannot finish, preserve the planned date and record the new status. Do not move the due date forward as though service occurred. Identify who decides the next step and what evidence will confirm it. This matters when reports are reviewed months later: a neat-looking calendar can conceal a missed task if the original event has been overwritten. A transparent exception is more useful than a falsely complete schedule."
+      }
+    ],
+    "checklist": [
+      "Asset register and responsibility boundaries",
+      "Source and owner of each service interval",
+      "Calendar, usage or condition trigger",
+      "Access and documentation requirements",
+      "Dated review after changes"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "appliance-repair-replacement-brief",
+    "title": "Prepare an appliance repair-or-replace decision brief",
+    "description": "Collect diagnostic findings, complete costs, timing and operating consequences before choosing the next appliance action.",
+    "intro": "A repair estimate and a replacement price rarely cover the same work. Owners should compare diagnostic evidence, remaining uncertainty, installation and operating disruption before deciding. A structured brief makes those differences visible. It does not diagnose an appliance, establish safe operation or predict its remaining life; those questions belong with qualified providers and reliable product information.",
+    "sections": [
+      {
+        "title": "Record the appliance and assessment",
+        "text": "Identify the model, relevant history, observed problem and the provider’s actual findings. Distinguish confirmed faults from further testing proposed. Keep service records and warranty information available for review. A repeated symptom does not prove the same part has failed again, so avoid supplying an assumed diagnosis as though it were a professional conclusion."
+      },
+      {
+        "title": "Define the full repair proposal",
+        "text": "Ask what parts, labor, return visits and other work the estimate includes. Record exclusions, availability assumptions and the provider’s description of remaining uncertainty. Clarify what documentation or service terms accompany the work. If additional problems may be discovered after opening the appliance, identify how expanded work would be assessed and authorized."
+      },
+      {
+        "title": "Build a complete replacement scope",
+        "text": "Include the product, delivery, removal, installation, required connections and any separately arranged work. Verify dimensions and site constraints using appropriate documentation. A lower shelf price is not a complete replacement cost. Refer electrical, plumbing, ventilation and other technical requirements to qualified providers instead of assuming the existing setup is suitable."
+      },
+      {
+        "title": "Compare timing and disruption",
+        "text": "For a fictional decision, a $250 repair available in a week and a $650 replacement available tomorrow present a timing difference as well as a price difference. Additional work and the property’s operating plan may change the comparison. Do not treat the example as a recommendation; record the owner’s assumptions about access, availability and disruption separately from quoted amounts."
+      },
+      {
+        "title": "Document the decision and follow-through",
+        "text": "Name the person approving the selected option, its scope and any conditions. Track delivery or service completion, unresolved items and final charges. Update the asset register if equipment changes and preserve the prior history. A clear decision file should explain why the option was chosen without converting uncertain life expectancy or future repair savings into guaranteed facts."
+      },
+      {
+        "title": "Keep uncertain history visible",
+        "text": "An appliance may have prior work without an available invoice or reliable description. Record that limitation rather than giving a new provider an assumed repair history. Ask which missing facts would materially change the proposed assessment and try to obtain those records. The decision brief should distinguish current findings, documented historical work and unconfirmed recollections. That separation lets the owner compare options without giving uncertain information the same weight as a recent professional report."
+      }
+    ],
+    "checklist": [
+      "Model and diagnostic evidence",
+      "Complete repair scope and uncertainty",
+      "Complete replacement and installation scope",
+      "Timing and disruption assumptions",
+      "Approval, completion and asset-register update"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "hvac-service-visit-packet",
+    "title": "Prepare the packet for an HVAC service visit",
+    "description": "Give an HVAC provider usable equipment, symptom, access and authorization information without guessing the diagnosis.",
+    "intro": "An HVAC visit is easier to coordinate when the provider receives accurate equipment and observation records. A vague request to make the system work can hide several different issues and leave access or approval unresolved. Prepare a service packet that helps a qualified provider assess the actual system. This guide does not instruct owners to repair equipment, choose technical settings or determine safe operation.",
+    "sections": [
+      {
+        "title": "Identify equipment and available records",
+        "text": "List the systems serving the property, model references where available and prior service documentation. Note which spaces each system serves without assuming the map is complete. Include known controls and any recent change to the setup. If a record is missing, label it missing rather than replacing it with an estimate that could mislead the technician."
+      },
+      {
+        "title": "Describe observations and timing",
+        "text": "Record the symptom, affected area, when it was noticed and any relevant operating context. Separate a displayed message or sound from an inferred cause. Avoid repeated experimentation that a qualified provider has not advised. A clear chronology helps the service team ask useful questions and distinguish a recurring issue from a newly observed condition."
+      },
+      {
+        "title": "Clarify the visit and authorization scope",
+        "text": "Ask whether the appointment covers diagnosis, planned maintenance or a defined repair. Identify any callout charge and the process for approving further work. For a fictional visit with a diagnostic fee and a later parts estimate, preserve the two decisions separately. A booking confirmation should not be treated as permission for every additional repair the provider may recommend."
+      },
+      {
+        "title": "Coordinate access and property communication",
+        "text": "Name the onsite contact and arrange entry through the approved process. Tell the provider about relevant occupancy and access constraints without disclosing unnecessary guest details. Ask how findings and any limitations will be reported. Have the appropriate owner or manager decide operational consequences using qualified advice rather than asking a coordinator to certify the property’s condition."
+      },
+      {
+        "title": "Retain the service outcome",
+        "text": "Collect the service report, invoice, approved changes and recommendations. Record tasks still awaiting parts or another visit. Update the maintenance calendar only from the actual outcome and appropriate guidance. Keep the history accessible for the next technician; replacing a vague open request with a vague completed label loses information that could be useful during a later problem."
+      },
+      {
+        "title": "Prepare for a remote owner review",
+        "text": "If the owner will approve work remotely, agree in advance on the information needed for a decision and the contact route. Ask the provider to identify the proposed scope, price, timing and relevant uncertainty clearly. A rushed call containing only a total amount may not support an informed approval. Keep the approval with the exact proposal version so later staff can tell which work was accepted and which recommendation remained under consideration."
+      }
+    ],
+    "checklist": [
+      "Equipment and service-history references",
+      "Observation chronology without diagnosis",
+      "Visit scope and spending authority",
+      "Access and reporting contacts",
+      "Service report and unresolved follow-up"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "plumbing-service-request-file",
+    "title": "Create a plumbing service-request file",
+    "description": "Record plumbing observations, site access, proposed work and completion evidence for a qualified service provider.",
+    "intro": "Owners often need to arrange a plumbing visit without being at the property. A concise file can connect the person observing a problem with the qualified person assessing it. It should preserve what is known and what remains uncertain. This guide is not a repair procedure or emergency plan, and it does not decide whether a property is safe to use.",
+    "sections": [
+      {
+        "title": "Record what was observed",
+        "text": "Identify the room or fixture, date and visible condition. Include relevant photographs only when they can be taken appropriately. Separate active observations from an earlier guest report and label who supplied each fact. Do not assume that two nearby symptoms have the same cause. The service provider should be able to distinguish evidence from an owner’s initial guess."
+      },
+      {
+        "title": "Follow the property’s established escalation process",
+        "text": "Use the approved contact and emergency procedures for the actual situation. Record whom the report reached and the response received. A generic article cannot classify every condition or replace local professional advice. The file should show the escalation path used, not encourage staff to continue operating equipment or attempt a repair beyond their competence."
+      },
+      {
+        "title": "Define assessment and work approvals",
+        "text": "Ask what the initial visit includes and how additional work will be quoted. Identify the person who may approve scope, spending and schedule changes. For a fictional visit discovering an inaccessible component, the proposal may require separate access or restoration work. Keep that dependency visible rather than assuming the plumber’s first estimate includes every trade needed."
+      },
+      {
+        "title": "Coordinate access and documentation",
+        "text": "Provide the approved entry process, property contact and known access limitations. Ask how the provider will document findings and any recommended next steps. Do not circulate entry codes or guest information in a broad vendor-search message. Use a controlled channel after the provider and appointment are confirmed."
+      },
+      {
+        "title": "Close the request with specific evidence",
+        "text": "Retain the service description, approved charges and any follow-up conditions. Distinguish completed repairs from temporary measures or a recommendation for additional assessment. Refer technical questions to the qualified provider. Update the asset or maintenance records as appropriate so a future visit begins with a usable history rather than a missing invoice and a memory of what happened."
+      },
+      {
+        "title": "Confirm responsibility for shared components",
+        "text": "Some fixtures or lines may involve a landlord, association, utility or neighboring unit. Flag that possibility in the service file and ask the responsible parties to clarify the boundary. Do not authorize work on someone else’s component solely because a symptom appears inside the rental. Keep the provider’s observations and any approval records together. The file can identify a responsibility question while leaving ownership and contractual interpretation to the appropriate people and documents."
+      }
+    ],
+    "checklist": [
+      "Dated fixture or area observations",
+      "Established escalation record",
+      "Assessment and expanded-work approvals",
+      "Controlled access and service contacts",
+      "Outcome, limitations and follow-up evidence"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "pest-service-owner-handoff",
+    "title": "Build an owner handoff for pest-service visits",
+    "description": "Connect dated observations, provider findings, preventive tasks and follow-up without making an unverified diagnosis.",
+    "intro": "A pest-service appointment needs accurate site information and an owner who can act on the resulting recommendations. The provider may identify building or housekeeping work that is outside its own agreement. Use a handoff record to separate those responsibilities. This guide does not identify pests, prescribe treatment or establish whether a particular provider’s licensing is sufficient for the work.",
+    "sections": [
+      {
+        "title": "Maintain an observation record",
+        "text": "Log the location, date, observed sign and person reporting it. Preserve uncertainty and avoid labeling every mark or insect as a confirmed infestation. Photographs may help a provider assess the report, but they do not replace its professional evaluation. Use property references rather than unnecessary guest identities in the working file."
+      },
+      {
+        "title": "Describe the site and operating context",
+        "text": "Tell the provider about relevant rooms, storage, access and areas controlled by someone else. Identify work recently performed that may matter to the assessment. Ask what information it needs before choosing a service approach. A rental address and bedroom count alone may not explain the scope of the site or the restrictions on access."
+      },
+      {
+        "title": "Clarify proposed work and credentials",
+        "text": "Request the scope, limitations, follow-up plan and credentials applicable to the assignment. Verify material details with the appropriate authority or source. Have qualified staff resolve safety and treatment questions. Directory inclusion and a provider’s general service description do not establish that it is suitable for every pest, building or occupancy situation."
+      },
+      {
+        "title": "Assign preventive recommendations",
+        "text": "For a fictional report identifying a gap near a utility opening, the pest provider may recommend building work by another trade. Record who receives that recommendation, who may authorize it and when it will be reviewed. A note in the service report is not evidence that the separate repair occurred. Keep treatment and property-maintenance actions on distinct lines."
+      },
+      {
+        "title": "Track the follow-up outcome",
+        "text": "Retain visit records, observed changes and outstanding questions. Ask how the provider wants new observations reported between visits. Compare the agreed service with completed work and invoices, while keeping claims about results limited to documented evidence. The handoff should remain understandable if another owner representative takes over before the follow-up appointment."
+      },
+      {
+        "title": "Carry recommendations into the next visit",
+        "text": "A recommendation made during one visit should remain visible until its owner records a result. Give it an identifier and connect the next service report to it. If a different technician attends, provide the relevant history through the approved channel. This avoids repeated recommendations that appear new each time. Do not convert repeated advice into proof that work was performed; an observation, an approved action and a completed action remain different records."
+      }
+    ],
+    "checklist": [
+      "Observation log and uncertainty",
+      "Site scope and access information",
+      "Proposed work and credential verification",
+      "Separate preventive-task owners",
+      "Follow-up findings and invoice references"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-landscape-service-calendar",
+    "title": "Coordinate landscape service with rental operations",
+    "description": "Create a site-based landscaping calendar that connects tasks, access, observations and approved changes.",
+    "intro": "Landscape work can affect arrival routes, outdoor amenities and the property’s presentation. An owner needs a schedule based on the actual site, with a way to handle weather and changing conditions. This guide organizes vendor coordination rather than providing horticultural treatment advice. Qualified providers should determine the methods and any requirements applying to the property.",
+    "sections": [
+      {
+        "title": "Map the service boundaries",
+        "text": "Identify lawn, planting areas, paths, trees and features included in the contract. Mark areas maintained by an association or another party. Record known access issues and storage arrangements. A map should clarify responsibility, not imply ownership or permission that has not been confirmed. Ask the vendor to verify the actual site rather than quote from an incomplete description."
+      },
+      {
+        "title": "Separate routine and seasonal tasks",
+        "text": "List recurring work, seasonal preparation and one-time improvements individually. State who supplies materials and who approves replacements or extra quantities. A fixed monthly payment may support a seasonally changing work plan, so ask for the schedule rather than assuming each visit has identical tasks. Keep technical treatment decisions with qualified providers."
+      },
+      {
+        "title": "Coordinate visits and notifications",
+        "text": "Provide the property’s operating constraints and an approved communication channel. Avoid sharing guest identities where a date and access condition are enough. Define how a delayed visit or weather change is reported. The owner should be able to adjust the operating plan without treating an estimated arrival window as a guaranteed appointment."
+      },
+      {
+        "title": "Use an approved change example",
+        "text": "For a fictional new planting bed, ask how preparation, plants and continuing care will be scoped and priced. A change to the property may affect the recurring agreement as well as the initial project. Document the decision, its effective date and the new maintenance boundary. Do not assume the original seasonal price covers every future improvement."
+      },
+      {
+        "title": "Review reports and repeated issues",
+        "text": "Ask for a usable visit note describing work performed and conditions needing a decision. Assign an owner to recommendations outside the vendor’s scope. Compare repeated damage, missed areas or urgent requests with the plan before renewing. Retain site versions and service records so the next provider can understand the property’s history without relying on recollection."
+      },
+      {
+        "title": "Track material assumptions",
+        "text": "If the service quote includes an allowance or estimate for materials, identify the quantity, specification and approval process. Ask how unused material or a change in price will be handled. Keep the recurring service fee distinct from an improvement project. A visible allowance helps the owner understand the budget, but it should not be treated as a fixed delivered price unless the actual agreement says so and the included scope is clear."
+      }
+    ],
+    "checklist": [
+      "Site map and responsibility boundaries",
+      "Routine, seasonal and project tasks",
+      "Access and schedule-change process",
+      "Written improvement approvals",
+      "Visit reports and recommendation owners"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "pool-service-record-handoff",
+    "title": "Organize pool-service records and provider handoffs",
+    "description": "Define the pool-service record, reporting contacts and unresolved-task process without substituting a checklist for qualified assessment.",
+    "intro": "A pool-service record can help an owner understand what a qualified provider did and what remains unresolved. It cannot establish that the facility is safe merely because a visit appears on the calendar. Applicable requirements depend on the property and jurisdiction. Use this guide to organize scope, communication and documents, and obtain appropriate professional guidance for technical and operating decisions.",
+    "sections": [
+      {
+        "title": "Describe the facility and current arrangement",
+        "text": "List the pool or spa, associated equipment references and the parties responsible for service, repairs and property operations. Gather existing instructions and records. State where information is missing. Do not assume that a provider maintaining one residential facility is automatically qualified for every rental property or the regulatory classification that may apply to it."
+      },
+      {
+        "title": "Confirm the proposed service scope",
+        "text": "Ask the provider to identify routine tasks, visit frequency, reporting and exclusions in writing. Verify the qualifications and permissions relevant to the assignment through appropriate sources. Keep repairs, equipment replacement and other expanded work separate from a routine visit. Have qualified advisers resolve requirements rather than copying a neighboring property’s schedule or acceptance criteria."
+      },
+      {
+        "title": "Define records the owner receives",
+        "text": "Agree on the service report format, date, equipment observations, work performed and any recommendation requiring action. Identify how urgent concerns are communicated. A completed form is evidence of recorded activity, not an independent certification of every condition. Ask who can interpret the findings and what the owner should do when information is incomplete."
+      },
+      {
+        "title": "Track repairs and operating decisions separately",
+        "text": "For a fictional report recommending replacement of a component, record the proposed work, approver, appointment and documentation expected. Keep the provider’s technical recommendation distinct from the owner’s operational decisions made using appropriate advice. Do not mark the repair complete when it is merely ordered or assume routine service settles a separate equipment concern."
+      },
+      {
+        "title": "Prepare a continuity file",
+        "text": "Retain the current scope, provider contacts, service history and unresolved items in a controlled location. Ensure the backup owner representative knows how to reach the responsible professionals. Review changes in equipment or use with them. A continuity file should support qualified decisions, not encourage untrained staff to improvise technical maintenance or safety assessments."
+      },
+      {
+        "title": "Check the reporting chain",
+        "text": "Confirm who receives the service report and who may act on recommendations. A report left in a private inbox can fail to reach the person responsible for the next decision. Use a controlled location accessible to the appropriate backup representative, and document the route for questions. This organizational check does not validate the technical content of the report; it helps ensure the qualified advice reaches the people expected to respond to it."
+      }
+    ],
+    "checklist": [
+      "Facility and responsibility inventory",
+      "Written scope and credential checks",
+      "Agreed service-report format",
+      "Separate repair approvals and completion",
+      "Controlled continuity file and contacts"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-waste-collection-service-brief",
+    "title": "Compare rental waste-collection service scopes",
+    "description": "Specify containers, collection patterns, access and overflow arrangements before comparing waste-service proposals.",
+    "intro": "Waste service depends on the property, collection arrangement and local rules. A proposal that works for one address may not fit another. Owners should identify who supplies containers, who moves them and what happens when collection does not occur as expected. This guide does not determine municipal eligibility, permitted materials or local storage requirements; confirm those with the relevant authority and provider.",
+    "sections": [
+      {
+        "title": "Confirm the service model and authority",
+        "text": "Determine whether the property uses municipal, shared or privately contracted service and which party controls changes. Record the address and relevant account or association contact. Do not infer a right to use nearby containers or another property’s service. Ask the appropriate source to confirm the arrangement before obtaining quotes for work that may not be available."
+      },
+      {
+        "title": "Inventory containers and material streams",
+        "text": "List approved container types, ownership, storage location and materials handled through separate processes. Record the provider’s actual acceptance instructions rather than treating every item as ordinary trash. Keep hazardous, unusual or regulated materials outside a generic service request until appropriate guidance identifies how they should be handled."
+      },
+      {
+        "title": "Map the recurring tasks",
+        "text": "Distinguish removing material from the property, moving containers to a pickup location, returning them and cleaning the storage area. Identify who performs each task and when. A cleaner’s turnover fee may not include collection-day work between bookings. The owner needs a schedule that connects those events without silently assigning the same task to two vendors."
+      },
+      {
+        "title": "Agree on an exception process",
+        "text": "For a fictional missed collection before an arrival, identify who confirms the problem, contacts the provider and authorizes an approved alternative. Ask what overflow or extra collection costs and what access it needs. Do not assume a same-day option exists. Record the response and any remaining task so the next person does not repeat an unresolved request."
+      },
+      {
+        "title": "Reconcile charges and review capacity",
+        "text": "Compare container, regular collection, extra pickup and other fees using the same service pattern. Review actual overflow, missed service and seasonal changes before increasing or reducing capacity. Retain notices and revised instructions from the provider. The agreement should be understandable to a backup coordinator without relying on an owner’s informal memory of pickup routines."
+      },
+      {
+        "title": "Record special collections separately",
+        "text": "A furniture removal, appliance disposal or unusual volume may need a separate arrangement from routine collection. Confirm acceptance, timing and charges directly before including it in the operating plan. Do not leave an exceptional item beside normal containers and assume the routine provider will handle it. Link the special request to its confirmation and completion record. This prevents one-off work from being confused with the scope the regular service actually agreed to provide."
+      }
+    ],
+    "checklist": [
+      "Confirmed municipal, shared or private arrangement",
+      "Container and accepted-material inventory",
+      "Task owners across collection days",
+      "Missed-service and overflow process",
+      "Full fees and periodic capacity review"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "smart-lock-vendor-access-handoff",
+    "title": "Plan a smart-lock vendor handoff with controlled access",
+    "description": "Document lock ownership, administrative roles, service scope and tested access workflows without exposing entry credentials.",
+    "intro": "A smart-lock project includes account ownership and operating procedures as well as hardware. Owners should know who can administer the system, how authorized access is created and how a provider’s work ends. This guide is a coordination checklist, not a security assessment or instructions for bypassing a lock. Use qualified providers and the manufacturer’s guidance for the actual equipment and installation.",
+    "sections": [
+      {
+        "title": "Record hardware and account ownership",
+        "text": "List devices, locations, model references and the business-controlled account responsible for them. Identify subscriptions and connected systems. Keep codes, passwords and recovery information out of broad vendor enquiries and public documents. A purchased lock does not by itself show who controls the online account or what a former installer can still access."
+      },
+      {
+        "title": "Define the provider’s assignment",
+        "text": "Separate installation, account setup, integration, maintenance and ongoing administration. Ask what permissions the provider needs and for how long. NIST’s outsourcing guidance offers background for assigning technology responsibilities, but it does not certify a lock or installer. Have qualified staff review the proposed access and confirm how permissions will be removed when the assignment ends."
+      },
+      {
+        "title": "Test authorized operating scenarios",
+        "text": "Use a documented test plan for the workflows the property actually uses, following manufacturer and provider instructions. For a fictional property, test an approved staff access period and the associated reporting or revocation process. Do not publish real codes in the record. Identify who confirms the result and which failure should be referred back to the provider."
+      },
+      {
+        "title": "Prepare support and continuity contacts",
+        "text": "Ask what happens when a device, network or account service is unavailable. Document the approved support process and responsible contact without turning a public guide into a bypass instruction. Make sure an authorized backup representative can reach the appropriate help. Distinguish the provider’s service commitment from assumptions about uninterrupted access."
+      },
+      {
+        "title": "Close the installation and service handoff",
+        "text": "Collect model information, warranty documents, approved settings and the agreed support scope. Review administrative users and remove temporary access through the authorized process. Record unresolved integration issues separately. Before renewing service, compare actual incidents, response and recurring charges with the agreement, while recognizing that a successful test is not a guarantee against every future failure."
+      },
+      {
+        "title": "Preserve the access change history",
+        "text": "Record when authorized roles are added, changed or removed, using the approved system’s records where available. Keep the history separate from the secret access value itself. A new manager should be able to identify who controls administration without receiving an uncontrolled copy of every credential. Review access at provider transitions and after relevant staff changes. This is an accountability practice, not proof that the product or configuration meets every security requirement."
+      }
+    ],
+    "checklist": [
+      "Device and business-account inventory",
+      "Time-bounded vendor permissions",
+      "Authorized workflow test record",
+      "Support and continuity contacts",
+      "Administrative-access review and documents"
+    ],
+    "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/building-your-team",
+    "sourceLabel": "NIST background on outsourced technology responsibilities",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-internet-service-handoff",
+    "title": "Prepare a rental internet-service handoff",
+    "description": "Connect account control, installed equipment, reported symptoms and service responsibilities in an internet support file.",
+    "intro": "Internet support becomes difficult when an owner, installer and property manager each hold different pieces of the setup. A clear handoff should identify the account, equipment and support boundaries without exposing credentials. This guide helps organize vendor coordination. It does not guarantee coverage or speed, prescribe a network-security configuration or determine which equipment is suitable for a particular site.",
+    "sections": [
+      {
+        "title": "Create an equipment and service map",
+        "text": "Record the service provider, account owner, installed equipment and relevant model references. Identify who owns or rents each component. Note where service responsibility passes from the carrier to another installer or manager. A single monthly bill may not cover every device or connection inside the property, so avoid assuming all faults belong to the same provider."
+      },
+      {
+        "title": "Keep access under owner control",
+        "text": "Use business-controlled administrative accounts and an approved process for vendor access. Keep passwords and recovery information outside general support notes. NIST guidance can help frame responsibility questions when technology services are outsourced. The owner should know who can change the setup, who approves changes and how temporary provider access ends."
+      },
+      {
+        "title": "Describe symptoms before requesting work",
+        "text": "Record when the issue occurred, which area or device was affected and what was observed. Separate a reported slow connection from a confirmed service outage or equipment fault. Give the provider useful context without guessing the technical cause. Avoid repeated changes to the setup that make it harder to reproduce or understand the original problem."
+      },
+      {
+        "title": "Use an agreed verification plan",
+        "text": "For a fictional service visit, identify representative locations and authorized devices for checking the work. Ask the provider to explain what the results can establish and their limits. A test under one set of conditions does not promise identical performance for every device, time or occupancy level. Keep the test record with any provider findings and recommended follow-up."
+      },
+      {
+        "title": "Define support and recurring costs",
+        "text": "Separate carrier service, equipment rental, installation, managed support and replacement charges. Confirm where the owner reports an issue and who coordinates between providers. Retain the approved configuration documentation and account contacts in a controlled file. Review recurring failures and changes before renewing rather than assuming the original installation remains appropriate indefinitely."
+      },
+      {
+        "title": "Separate test conditions from promises",
+        "text": "Record the location, device and broad conditions used during an agreed service test without collecting unnecessary personal data. A result from an empty property may differ from later use, so retain the context instead of treating one measurement as a permanent promise. Ask the provider how ongoing issues should be reported and what evidence is helpful. Consistent observations support troubleshooting while technical interpretation remains with the qualified person reviewing the system."
+      }
+    ],
+    "checklist": [
+      "Equipment and service-responsibility map",
+      "Business-controlled administrative access",
+      "Dated symptom record",
+      "Agreed test scope and limitations",
+      "Support contacts and complete recurring costs"
+    ],
+    "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/building-your-team",
+    "sourceLabel": "NIST background on technology-team responsibilities",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-photography-shot-brief",
+    "title": "Prepare a rental photography shot brief",
+    "description": "Turn a photography request into a property-specific plan for rooms, features, file delivery and usage permissions.",
+    "intro": "A photography brief should explain what the owner needs to communicate and what will actually be ready for the shoot. A count of final images does not fully describe room coverage, preparation or editing. Use a written brief to compare providers and organize the property. This guide does not promise booking results or determine ownership and licensing under a photography agreement.",
+    "sections": [
+      {
+        "title": "Inventory the spaces and useful views",
+        "text": "List rooms, outdoor areas and features to be covered. Identify details important to the property’s accurate presentation, such as a work area or an unusual layout. Avoid requesting images that imply an unavailable amenity or misleading scale. Ask the photographer how the proposed coverage will explain the property rather than selecting a package solely by image count."
+      },
+      {
+        "title": "Assign preparation responsibilities",
+        "text": "Specify who cleans, stages, removes personal material and provides access. Record unfinished work that could affect the shoot. For a fictional property with an outdoor project still underway, decide whether that area should be scheduled separately. A booking date should not be mistaken for confirmation that every space is ready or that the photographer will complete unrelated preparation."
+      },
+      {
+        "title": "Clarify production and weather assumptions",
+        "text": "Discuss timing, lighting, occupancy restrictions and the plan for unsuitable conditions. Ask what equipment or additional access the photographer proposes. Do not assume specialist work is included because it appears in a portfolio. Identify cancellation, rescheduling and return-visit charges so quotes can be compared using the same practical assumptions."
+      },
+      {
+        "title": "Define final files and permitted use",
+        "text": "List required formats, orientations, approximate final count and editing scope. Ask how the business may use images, whether others may receive them and how credits or restrictions are handled. Have qualified advisers resolve ownership or licensing questions in the actual agreement. A paid invoice is not a substitute for understanding the permissions supplied with the work."
+      },
+      {
+        "title": "Approve and retain the handoff",
+        "text": "Name the reviewer and agree on the process for corrections. Keep the shot brief, final selected files and usage terms together. Record which images are current when furnishings or amenities change. Assess later marketing results separately from production completion; a finished set of photographs does not establish a guaranteed improvement in bookings or revenue."
+      },
+      {
+        "title": "Review changes before reusing photographs",
+        "text": "A photograph may accurately show the property when made and become outdated after furniture, layout or amenities change. Give the image library a review owner and retain the relevant usage terms. Do not alter images to imply features that are not available. If a later project requires an additional license or new shot, obtain it through the agreed process. A well-organized library helps staff select current material without assuming every old file remains suitable."
+      }
+    ],
+    "checklist": [
+      "Room and feature shot list",
+      "Property preparation and access owners",
+      "Schedule and reshoot assumptions",
+      "File specifications and written usage terms",
+      "Approval, corrections and current-image register"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-listing-copy-fact-review",
+    "title": "Review rental listing copy against property facts",
+    "description": "Create an evidence-based copy review that separates verified features, policies and promotional language.",
+    "intro": "A copywriter can improve clarity, but the owner remains the source of many property facts. A review file should identify what is verified, what needs confirmation and who approves the final description. This guide helps coordinate that work. It does not verify a listing platform’s current requirements or authorize claims about accessibility, safety, legality or expected performance.",
+    "sections": [
+      {
+        "title": "Build the factual source sheet",
+        "text": "List the property’s room layout, sleeping arrangements, amenities and relevant limitations using current information. Link photographs, measurements or other appropriate evidence where useful. Mark uncertain details explicitly. A detail copied from an old listing is not automatically current, particularly after renovations, changed equipment or altered access arrangements."
+      },
+      {
+        "title": "Separate facts and guest expectations",
+        "text": "Ask the writer to distinguish objective features from subjective descriptions. Words such as secluded, easy or spacious can create different expectations for different readers. Explain constraints that materially affect the stay instead of hiding them in a vague phrase. Any specialized claim should be reviewed by the appropriate qualified person before publication."
+      },
+      {
+        "title": "Control policy and instruction changes",
+        "text": "Keep booking policies and operating instructions under the person authorized to approve them. A copy edit should not silently change a rule, arrival process or offered service. For a fictional description referring to parking, confirm the actual arrangement and limitations before revising the wording. The writer should flag a question, not invent a convenient answer."
+      },
+      {
+        "title": "Use a structured approval pass",
+        "text": "Review each section for accuracy, clarity and consistency with current photographs and other guest-facing material. Record the approved version and unresolved questions. Avoid accepting a bulk rewrite merely because it reads smoothly. A useful review identifies which facts the owner confirmed and which statements were removed or qualified."
+      },
+      {
+        "title": "Maintain the published version",
+        "text": "Keep the final text and publication date with the source sheet. Assign someone to review changes in amenities, seasonal access and services. Compare later guest questions with the wording to identify ambiguity. Do not treat an increase in views or bookings as proof that every claim is accurate; factual maintenance and marketing measurement are different tasks."
+      },
+      {
+        "title": "Keep a change log after approval",
+        "text": "Record what changed, why it changed and which factual source supports the revision. An approved version may be copied to several channels, so identify where the update needs to appear. Do not assume changing one document updates every public surface. A short distribution checklist can prevent contradictory descriptions. Retain unresolved questions outside the published copy and assign someone to confirm them, rather than filling a gap with appealing language that lacks a factual basis."
+      }
+    ],
+    "checklist": [
+      "Current property fact sheet",
+      "Uncertain or specialized claims flagged",
+      "Authorized policies and instructions",
+      "Section-by-section approval record",
+      "Published version and update owner"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "guest-messaging-service-handoff",
+    "title": "Define a guest-messaging service handoff",
+    "description": "Map message categories, approval limits, privacy and escalation when a provider helps with guest communications.",
+    "intro": "Outsourcing guest messages can improve coverage only if the provider knows which decisions it may make. A response template cannot resolve every property-specific issue. Build a responsibility map before giving access to communication tools. This guide does not prescribe platform policies, authorize refunds or replace the property’s established emergency procedures.",
+    "sections": [
+      {
+        "title": "Classify the messages to be handled",
+        "text": "List routine arrival questions, property-information requests, maintenance reports and other common categories. Identify messages that must go directly to the owner or a qualified responder. Define coverage hours and the handoff between shifts. Avoid promising constant support unless the actual staffing and agreement support it."
+      },
+      {
+        "title": "Create an approved information source",
+        "text": "Give the provider current property instructions, contact routes and approved wording. Keep access details in controlled systems rather than a broadly shared document. NIST’s outsourcing guidance can help frame responsibility questions about connected technology and information. A provider should flag a missing answer instead of improvising a new property policy."
+      },
+      {
+        "title": "Set decision and spending boundaries",
+        "text": "Record who may approve concessions, additional work or schedule changes. For a fictional message reporting a missing supply, distinguish sending an approved explanation from authorizing a purchase or refund. Keep the action reference and approval evidence. A fast reply is not enough if it commits the owner to terms outside the provider’s authority."
+      },
+      {
+        "title": "Test escalation and shift transfer",
+        "text": "Use fictional scenarios to test the route for an urgent concern, an unanswered vendor request and an issue still open when coverage changes. Follow established property procedures and appropriate professional guidance. The exercise should reveal who owns the next action without exposing actual guest information or encouraging unqualified staff to diagnose a hazard."
+      },
+      {
+        "title": "Review outcomes and access periodically",
+        "text": "Track whether messages received an appropriate response and whether referred issues reached the responsible person. Keep quality review distinct from simply counting response speed. Revisit permissions when staff or providers change and remove access through the approved process. Preserve the communication history required by the business without collecting unnecessary personal data in a separate performance spreadsheet."
+      },
+      {
+        "title": "Use a limited sample for quality review",
+        "text": "Review a small set of authorized, appropriately protected examples to check accuracy, escalation and tone. Focus on whether the provider used approved information and sent decisions to the right person. Avoid exporting unnecessary guest data into a separate review tool. A sample can reveal process problems without proving that every message met the standard. Record the improvement agreed and check later examples to see whether the provider actually changed the workflow. Record the agreed review date."
+      }
+    ],
+    "checklist": [
+      "Message categories and coverage hours",
+      "Approved property-information source",
+      "Decision and spending authority",
+      "Escalation and shift-transfer tests",
+      "Outcome review and access lifecycle"
+    ],
+    "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/building-your-team",
+    "sourceLabel": "NIST background on outsourced technology responsibilities",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "cohost-responsibility-matrix",
+    "title": "Build a co-host responsibility matrix before signing",
+    "description": "Define owner, co-host and vendor tasks with clear approval limits, records and transition responsibilities.",
+    "intro": "A co-host agreement should be understandable as a working arrangement, not just a percentage fee. Owners need to know who handles each recurring task, who may authorize spending and what happens when a task is missed. A responsibility matrix supports the conversation. It does not interpret platform rules, establish a legal agency relationship or decide whether a particular fee is appropriate.",
+    "sections": [
+      {
+        "title": "List the operating workstreams",
+        "text": "Include listing maintenance, calendars, messages, turnovers, supplies, maintenance coordination and financial reporting as relevant. Identify tasks performed by separate vendors. Avoid assuming that a co-host who coordinates cleaning also performs or inspects it. Each workstream should have a responsible party, a backup and a clear output the owner can review."
+      },
+      {
+        "title": "Define approval boundaries",
+        "text": "Record what the co-host may decide independently and what needs owner approval. Separate routine spending, urgent referral and changes to prices or policies. Use the actual agreement and obtain qualified advice about unclear authority. A message suggesting a course of action is not necessarily evidence that the owner approved a new ongoing commitment."
+      },
+      {
+        "title": "Compare a realistic operating scenario",
+        "text": "For a fictional same-day turnover with an unresolved repair, trace who receives the report, contacts the provider, approves cost and communicates the result. Do not assume the quickest available person owns every step. The scenario helps reveal gaps and overlapping responsibilities before the agreement is put into regular use."
+      },
+      {
+        "title": "Specify records and reporting",
+        "text": "Agree on the information the owner receives, its frequency and where it is retained. Identify invoices, work orders, message histories and unresolved tasks. Keep owner funds, vendor charges and co-host fees distinguishable in the reporting. The matrix organizes the handoff; accounting treatment and payment authority still need the appropriate review."
+      },
+      {
+        "title": "Plan a usable transition",
+        "text": "Confirm account ownership, access removal, transfer of open tasks and delivery of records when the relationship changes. Review notice and fee terms in the agreement rather than relying on assumptions about a platform setting. Keep a current backup contact and a copy of the operating matrix so the property does not depend entirely on one person’s memory."
+      },
+      {
+        "title": "Assign responsibility for transitions",
+        "text": "A matrix should include starting and ending work, not just routine operations. When a new co-host begins, record the records received, access granted and open tasks accepted. When the relationship changes, confirm what has been transferred and what remains unresolved. Keep the business’s control of essential accounts explicit. A smooth handoff requires evidence of acceptance; forwarding a folder or announcing a replacement does not establish that the next person understood every outstanding responsibility."
+      }
+    ],
+    "checklist": [
+      "Workstream owners, backups and outputs",
+      "Written decision and spending limits",
+      "Tested turnover exception scenario",
+      "Reports and source-document access",
+      "Account and open-task transition plan"
+    ],
+    "source": "https://www.sba.gov/counseling/manage-your-business/",
+    "sourceLabel": "SBA business-management background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-insurance-renewal-packet",
+    "title": "Prepare a rental insurance-renewal information packet",
+    "description": "Organize property use, changes, documents and questions for a licensed insurance professional before renewal.",
+    "intro": "An insurance renewal discussion depends on accurate information about the property and its use. A packet helps an owner tell the broker or insurer what changed and retain the answers received. It does not choose coverage, interpret exclusions or determine whether a policy protects a particular loss. Use a properly licensed professional and the actual policy documents for those decisions.",
+    "sections": [
+      {
+        "title": "Describe the property and use accurately",
+        "text": "Collect the address, ownership information, actual rental use and other facts requested by the professional. Identify changes in occupancy, amenities, renovations or services. Do not reuse last year’s description without checking it. A property marketed differently or operated under a changed arrangement may need a fresh conversation rather than a simple assumption that the old answers remain correct."
+      },
+      {
+        "title": "Assemble the current documents",
+        "text": "Keep the policy, declarations, endorsements and relevant correspondence together. Distinguish those documents from a proposal, certificate or marketing summary. Record renewal dates and requests for information. Ask the professional to explain which document answers each material question instead of inferring coverage from a short label or a quoted premium."
+      },
+      {
+        "title": "List changes and unresolved questions",
+        "text": "For a fictional property adding an amenity, describe the proposed change and ask what information the insurer needs before it occurs. Do not assume the addition is covered or excluded. Preserve the question and written response. The packet should expose uncertainty so it can be addressed by someone authorized and qualified to explain the arrangement."
+      },
+      {
+        "title": "Compare quotes on reviewed assumptions",
+        "text": "Ask the professional to identify differences in proposed coverage, limits, deductibles, conditions and exclusions. Premium alone does not establish equivalent protection. Record the assumptions supplied to each provider and correct errors before choosing. NAIC consumer resources can help locate general insurance information and state insurance departments, but they do not replace a property-specific professional review."
+      },
+      {
+        "title": "Retain the decision and update process",
+        "text": "Keep the accepted documents, explanation of material differences and proof of the owner’s decision. Identify who reports later changes and how the business tracks upcoming renewals. Do not treat a calendar reminder or payment receipt as a coverage interpretation. Review the packet when operations change rather than waiting for a claim to reveal that information was incomplete."
+      },
+      {
+        "title": "Record the limits of each answer",
+        "text": "When a professional explains a policy question, retain the question, response and document reference. Avoid broadening a response about one activity into a statement about every possible loss. If the property changes again, return with the new facts rather than relying on a past conversation out of context. The packet should make it easier to obtain qualified advice, not turn an owner’s summary of that advice into a substitute for the policy or authorized explanation."
+      }
+    ],
+    "checklist": [
+      "Accurate property-use and change summary",
+      "Current policy and endorsement documents",
+      "Written questions and professional responses",
+      "Comparable quote assumptions",
+      "Renewal decision and change-reporting owner"
+    ],
+    "source": "https://content.naic.org/consumer",
+    "sourceLabel": "NAIC consumer insurance resources",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "property-bookkeeping-vendor-handoff",
+    "title": "Prepare a property-level bookkeeping handoff",
+    "description": "Connect accounts, source records and property identifiers before moving rental bookkeeping work to a provider.",
+    "intro": "A bookkeeping provider needs consistent source records and clear ownership of unresolved questions. A clean export alone may not explain which property a transaction belongs to or whether a transfer is an expense. Use a handoff file that connects the records to the business’s actual structure. This guide does not determine tax treatment, legal ownership or the accounting method the business should use.",
+    "sections": [
+      {
+        "title": "Map accounts and property identifiers",
+        "text": "List the entities, properties, financial accounts and operating systems included in the assignment. Identify shared accounts and transfers that need explanation. Use consistent property references across statements, receipts and reports. Do not ask the bookkeeper to infer legal ownership or invent an allocation simply because a transaction contains an abbreviated property name."
+      },
+      {
+        "title": "Define the source-document workflow",
+        "text": "Agree on how invoices, receipts, payout reports and bank statements are supplied. The IRS describes the importance of transaction summaries and supporting records; that background does not make this guide a complete accounting system. Keep sensitive information in approved channels and specify who answers questions when a document is missing or unclear."
+      },
+      {
+        "title": "Separate opening work from recurring work",
+        "text": "Identify catch-up periods, unreconciled balances and records from a previous provider. For a fictional transition with three months incomplete, ask for a distinct cleanup scope and completion evidence before relying on ongoing reports. A low monthly quote may assume records are already reconciled, so compare what each proposal expects at the starting point."
+      },
+      {
+        "title": "Clarify review and approval responsibility",
+        "text": "Name the person who reviews uncertain classifications, property allocations and proposed adjustments. Keep explanatory evidence with the decision. Avoid sending a vague instruction to make the books match a target number. The provider should be able to report unresolved items without being pressured to replace missing facts with plausible entries."
+      },
+      {
+        "title": "Specify reports and the exit handoff",
+        "text": "Agree on reporting frequency, included schedules, software access and retention of source records. Separate bookkeeping from return preparation and advisory work. Confirm what the owner receives if the relationship ends. A good transition leaves usable records and open-question history, not just a PDF total that the next bookkeeper cannot trace."
+      },
+      {
+        "title": "Preserve unresolved opening items",
+        "text": "Keep a dated list of missing documents, unexplained balances and questions transferred from the former process. Assign an owner and show when an item is resolved. Do not force a clean opening position by hiding uncertainty in a miscellaneous entry. A transparent handoff can begin while some work remains open, provided the provider and owner understand the limitation and agree on the next step. Reports should reflect the status the appropriate accountant considers supportable."
+      }
+    ],
+    "checklist": [
+      "Entity, property and account map",
+      "Source-document delivery process",
+      "Separate cleanup and recurring scope",
+      "Named classification and adjustment reviewer",
+      "Reports, exports and exit records"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/how-should-i-record-my-business-transactions",
+    "sourceLabel": "IRS guidance on transaction records and supporting documents",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "cleaning-invoice-turnover-reconciliation",
+    "title": "Reconcile cleaning invoices to completed turnovers",
+    "description": "Match cleaning charges, approved extras, cancelled visits and completion records before reviewing an invoice.",
+    "intro": "A cleaning invoice can contain standard turnovers, extra work and schedule changes in the same total. An owner should be able to connect each charge to the applicable visit and approved scope. This guide focuses on cleaning-service records rather than furnishing purchases. It does not decide whether a disputed charge is legally payable or authorize a payment.",
+    "sections": [
+      {
+        "title": "Create a shared visit reference",
+        "text": "Identify the property, planned service date and visit reference used by the cleaner and owner. Keep cancelled or rescheduled visits visible rather than deleting their history. Avoid using guest names where a booking or turnover reference is sufficient. A consistent identifier makes it easier to tell two visits apart when dates change."
+      },
+      {
+        "title": "Separate standard and additional work",
+        "text": "Record the base service and the reference to its agreed price. List extra tasks with their approval and amount. For a fictional $150 turnover with an approved $30 extra task, the service subtotal is $180 before other applicable items. The arithmetic does not establish whether another fee is authorized; that requires the actual agreement and records."
+      },
+      {
+        "title": "Match completion evidence",
+        "text": "Connect the visit to the cleaner’s report and the owner’s exception review. A calendar booking shows planned work, not necessarily completed work. Conversely, an inspection finding does not automatically mean the entire cleaning charge is invalid. Preserve the actual observation and request clarification without erasing the provider’s service record."
+      },
+      {
+        "title": "Review credits and changes",
+        "text": "Check cancellation terms, return visits, agreed credits and duplicate lines. Keep a credit tied to its original charge and the evidence supporting it. Do not offset unrelated properties or periods simply because amounts happen to match. Ask the responsible finance contact how adjustments should flow through the business’s records."
+      },
+      {
+        "title": "Close the reconciliation clearly",
+        "text": "Record the outcome of each question, the supporting document and any remaining referral. Separate invoice review from payment authorization and bank-instruction verification. Keep the packet with the relevant statement and contract version. Review recurring disputes to see whether the underlying scope, scheduling process or approval communication needs to be improved."
+      },
+      {
+        "title": "Distinguish approval from payment",
+        "text": "An accepted reconciliation does not itself show that the invoice was paid, nor does a bank debit prove every service line was approved. Keep separate references for the review result, payment authorization and actual settlement. This distinction helps when a credit arrives later or one payment covers several visits. Ask the authorized finance contact to connect the records in the accounting system rather than using the operational worksheet as a second, conflicting ledger."
+      }
+    ],
+    "checklist": [
+      "Shared visit and property reference",
+      "Base scope and approved extras",
+      "Completion and exception records",
+      "Credit and cancellation reconciliation",
+      "Documented resolution and finance handoff"
+    ],
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/how-should-i-record-my-business-transactions",
+    "sourceLabel": "IRS transaction-recordkeeping background",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  },
+  {
+    "slug": "rental-vendor-contact-escalation-map",
+    "title": "Build a rental vendor contact and escalation map",
+    "description": "Keep current service contacts, responsibility boundaries and backup routes in a controlled operating record.",
+    "intro": "A contact list is useful only when the person using it knows why to call, what the provider handles and who can authorize the next step. A rental vendor escalation map connects those decisions. It is not an emergency-response protocol, a safety assessment or a replacement for local emergency services and qualified guidance. Keep the property’s approved procedures separate and easy for authorized staff to reach.",
+    "sections": [
+      {
+        "title": "Map responsibilities before phone numbers",
+        "text": "List service categories, current providers and the work each agreement covers. Identify excluded tasks and services controlled by another owner, association or utility. A nearby vendor’s phone number does not establish that it accepts the property or the assignment. Confirm actual service relationships and the appropriate contact route."
+      },
+      {
+        "title": "Separate routine and urgent routes",
+        "text": "Record the property’s approved referral process for different types of report. Name the owner representative who decides when additional help or spending is authorized. Do not let a generic list imply that every problem should wait for a preferred contractor. Qualified people should establish the applicable escalation and emergency procedures for the property."
+      },
+      {
+        "title": "Include access and information boundaries",
+        "text": "State where authorized staff find the information a provider needs without putting passwords, entry codes or guest records in a widely distributed sheet. NIST’s outsourcing guidance provides context for assigning technology and access responsibilities. Keep the map useful while limiting it to the information the intended user needs for that role."
+      },
+      {
+        "title": "Test a handoff with fictional information",
+        "text": "Use a fictional report to trace who receives it, what the provider is told and how the owner learns the outcome. Include an unavailable primary contact and an issue still unresolved at a shift change. The exercise should identify missing decisions or stale contacts without making real service calls or sharing actual guest information unnecessarily."
+      },
+      {
+        "title": "Review and maintain the map",
+        "text": "Assign a review owner and record when contacts and agreements were last checked. Update the map after provider changes, altered coverage or a failed handoff. Keep the prior version where useful for understanding an incident. A contact list marked current should reflect a real check, not an automatically refreshed date that suggests verification which never occurred."
+      },
+      {
+        "title": "Test the backup contact route",
+        "text": "Confirm the backup person has the documents and authority appropriate to the role before the primary coordinator is unavailable. Use a fictional scenario to check how the next action would be assigned, avoiding unnecessary calls to emergency services or real vendors. Update gaps found in the exercise and record the review date. A backup name on a sheet is less useful than a person who understands the current service boundaries and can locate the approved instructions."
+      }
+    ],
+    "checklist": [
+      "Service relationships and exclusions",
+      "Approved routine and urgent referral routes",
+      "Spending and decision authority",
+      "Controlled access-information location",
+      "Tested backups and dated contact review"
+    ],
+    "source": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/building-your-team",
+    "sourceLabel": "NIST background on outsourced responsibilities",
+    "published": "2026-11-20",
+    "modified": "2026-11-20"
+  }
+]
