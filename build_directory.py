@@ -222,7 +222,7 @@ for v in V:
  if phone:contact+='<p><strong>Phone:</strong> <a'+contact_link_style+' href="tel:'+E(phone,quote=True)+'">'+E(v['phone_display'])+'</a></p>'
  if v.get('email'):contact+='<p><strong>Email:</strong> <a'+contact_link_style+' href="mailto:'+E(v['email'],quote=True)+'">'+E(v['email'])+'</a></p>'
  if website:contact+='<p><a class="button" href="'+E(website,quote=True)+'" rel="noopener" target="_blank">Visit provider website</a></p>'
- location_label={'service_area':'Published service area','city':'Published city','address':'Published address'}.get(v.get('location_kind'),'Published location') if v.get('official_profile') else 'Published location'
+ location_label={'contact':'Published contact location','service_area':'Published service area','city':'Published city','address':'Published address'}.get(v.get('location_kind'),'Published location') if v.get('official_profile') else 'Published location'
  contact+='<p><strong>'+location_label+':</strong> '+E(v.get('location_display',v.get('address_display',v['city']+', '+st)))+'</p>'
  if v.get('street_address') and not v.get('official_profile'):contact+='<p>'+E(v['street_address'])+'</p>'
  contact_date='October 4, 2026'
